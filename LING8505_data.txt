@@ -1,0 +1,3855 @@
+#s alrupe’!
+#g
+alrupe’
+sleep
+睡覺
+#e Sleep!
+#c 睡覺！
+
+##########
+
+#s uwa alrupe’!
+#g
+uwa	alrupe’
+go	sleep
+去 睡覺
+#e Go to sleep!
+#c 去睡覺！
+#n 此句與上一句同為命令句。
+
+##########
+
+#s a ’apuc ku.
+#g
+’apuc=ku
+nom.indf	flower=1sg.nom
+主格.非限定	花=1sg.主格
+#e I am a flower.
+#c 我是花。
+#n 可以講“我是花”，但“我是一朵花”則不太自然，一般不講。
+
+##########
+
+#s saya a ’apuc.
+#g
+sa-a	a	’apuc
+one-clf	nom.indf	’apuc
+一-量詞	主格.非限定	花
+#e A flower.
+#c 一朵花。
+#n sasaya代替saya亦可，都表示“一”。
+
+##########
+
+#s sasa a cau.
+#g
+sa-sa	a	cau
+red-one	nom.indf	person
+重叠-一	主格.非限定	人
+#e A person.
+#c 一個人。
+#n cau中間無加插滑音。
+
+##########
+
+#s duwaya a ’apuc.
+#g
+duwa-a	a	’apuc
+two-clf	nom.indf	flower
+二-量詞	主格.非限定	花
+#e Two flowers.
+#c 兩朵花。
+#n duwa重音放第一音節指“二”，放第二音節指“來”；
+#n ’apu’apuc“花叢，很多花”。
+
+##########
+
+#s daduwa a cau.
+#g
+da-duwa	a	cau
+red-two	nom.indf	person
+重叠-二	主格.非限定	人
+#e Two people.
+#c 兩個人。
+
+##########
+
+#s duwaya a suwan.
+#g
+duwa-a	a	suwan
+two-clf	nom.indf	dog
+二-量詞	主格.非限定	狗
+#e Two dogs.
+#c 兩隻狗。
+#n suwasuwan“狗群，很多狗”。
+
+##########
+
+#s vulay idu na ’apuc.
+#g
+vulay	idu	na	’apuc
+beautiful	nom.prox.that	lnk	flower
+美麗	主格.近端.那	連繫詞	花
+#e That is a beautiful flower.
+#c 那是美麗的花。
+#n 中間加上“一朵”認為不自然。
+
+##########
+
+#s vulay idu na sa vute’ na ’apuc.
+#g
+vulay	idu	na	sa	vute’	na	’apuc
+beautiful	nom.prox.that	lnk	one	bunch.clf	lnk	flower	
+美麗	主格.近端.那	連繫詞	一	束.量詞	連繫詞	花
+#e That is a bunch of beautiful flowers.
+#c 那是一束美麗的花。
+#n sa“一”，sa vute’“一束”，書寫時習慣不分開，此處方便記錄及分析分寫； #n vute’專修飾花。
+
+##########
+
+#s a anayan mi.
+#g
+anay-an=mi
+nom.indf	friend.f-pl=1pl.excl
+主格.非限定	朋友.女性-複數=1pl.排除式
+#e We are firends (both are female).
+#c 我們是閨蜜。
+#n anaanayan“很多朋友（女性）”。
+
+##########
+
+#s a ngidayan mi.
+#g
+ngiday-an=mi
+nom.indf	friend.f-pl=1pl.excl
+主格.非限定	朋友.女性-複數=1pl.排除式
+#e We are besties (both are female).
+#c 我們是閨蜜（關係很好的女性朋友）。
+
+##########
+
+#s a ’aliyan mi.
+#g
+’ali-an=mi
+nom.indf	friend-pl=1pl.excl
+主格.非限定	朋友-複數=1pl.排除式
+#e We are friends (both are male or one is female while the other is male). 
+#c 我們是朋友（兩人皆男性或兩人分別為男性和女性）。
+#n ta為mi對應之包含式代詞，包含説話者、聽話者和其他人；
+#n mi與ta的使用與具體涉及的人數無關，如在有三個人的情況下一人說“我們（三個）是朋友”，使用mi；
+#n alialiyan“很多男性朋友”。
+
+##########
+
+#s semenaya ta.
+#g
+s<em>enay-a=ta
+<av>song-irr=1pl.nom.incl
+<主焦>歌-非實現=1pl.主格.包含式
+#e We sing.
+#c 我們唱歌。
+
+##########
+
+#s a temakakesi datu ’aliyan nadu.
+#g
+a	t<em>a<ka>kesi	datu	’ali-an	nadu
+nom.indf	<av><red>study	3pl.gen	friend-nmlz	3pl.nom
+主格.非限定	<主焦><重叠>學	3pl.屬格	朋友-名物化	3pl.主格
+#e Their friends are all students.
+#c 她/他們的朋友都是學生。
+#n temakesi“讀書”，kaduwan“很多”。
+
+##########
+
+#s kaduwan na temakakesi.
+#g
+kadu-an	na	t<em>a<ka>kesi	
+exist-nmlz	1pl.nom	<av><red>study
+存在-名物化	1pl.主格	<主焦><重叠>學
+#e A lot of students.
+#c 很多學生。
+
+##########
+
+#s sasa a temakakesi.
+#g
+sa-sa	a	t<em>a<ka>kesi
+red-one	nom.indf	<av><red>study
+重叠-一	主格.非限定	<主焦><重叠>學
+#e A student.
+#c 一個學生。
+
+##########
+
+#s nahemu ’aliyan mu, melri a t<em>a<ka>kesi.
+#g
+nahemu	’ali-an	mu	melri	a	t<em>a<ka>kesi
+2pl.gen	friend-nmlz	top	neg	nom.indf	<av><red>study
+2pl.屬格	朋友-名物化	主題	否定	主格.非限定	<主焦><重叠>學
+#e Your friends are not students.
+#c 你們的朋友不是學生。
+#n Kasavakan講nahemu，其他方言講nanmu。
+
+##########
+
+#s i Pusang mu, melri nanku pinitakesi.
+#g
+i	Pusang mu	melri nanku	p<in>i-takesi
+sg.nom	pn	top	neg	1sg.gen	caus<pfv>-study
+單數.主格	人名	主題	否定	1sg.屬格	使動<完成>-學
+#e Pusang is not my student.
+#c Pusang不是我的學生。
+#n pinitakesi“我教過的”，pinitakakesi“我教過的學生”。
+
+##########
+
+#s yawa ku i ngangarayan na kissiya i Taipei.
+#g
+yawa=ku	i	nga-ngara-an	na	kissiya	i	Taipei
+going.to.go=1sg.nom	loc	red-wait-nmlz	lnk	train	loc	Taipei
+要去=1sg.主格	處所	重叠-等待-名物化	連繫詞	火車	處所	臺北
+#e I am going to go to the Taipei Main Station.
+#c 我要去臺北車站。
+#n yawa“要去但還沒去”，不加FUT標記；
+#n ngara“等待”，後加an表處所，重叠表持續“等待不止一次”，不過使用ngarayan亦可。
+
+##########
+
+#s mukuwa i tiyam kana wariwari diya i Pusang.
+#g
+m-ukuwa	i	tiyam	kana	wari-wari	diya	i	Pusang
+av-go	loc	store	obl.def	red-day	hon	sg.nom	pn	
+主焦-去	處所	商店	斜格.限定	重叠-天	敬語	單數.主格	人名
+#e Pusang goes to the store everyday.
+#c Pusang每天都去商店。
+#n mukuwa亦可念作mukua，diya亦可念作dia；
+#n diya僅造成語氣差異，不影響語句是否自然；
+#n saya wari“一天”，duwaya wari“兩天”；
+#n hon表Honorific；
+#n uwa，ukuwa都表示“去”。
+
+##########
+
+#s *mukuwa i tiyam wariwari diya i Pusang.
+#g
+m-ukuwa	i	tiyam	wariwari	diya	i	Pusang
+av-go	loc	store	red-day	hon	sg.nom	pn	
+主焦-去	處所	商店	重叠-天	敬語	單數.主格	人名
+#e Pusang goes to the store everyday.
+#c Pusang每天都去商店。
+
+##########
+
+#s yawa i tiyam i Pusang.
+#g
+yawa	i	tiyam	i	Pusang
+going.to.go	loc	store	sg.nom	pn
+要去	處所	商店	單數.主格	人名
+#e Pusang is going to go to the store.
+#c #n Pusang要去商店。
+
+##########
+
+#s mukuwa i tiyam i Pusang.
+#g
+m-ukuwa	i	tiyam	i	Pusang
+av-go	loc	store	sg.nom	pn
+主焦-去	處所	商店	單數.主格	人名
+#e Pusang went to the store.
+#c Pusang去了商店。
+
+##########
+
+#s mukuwa lra i Valangaw i Pusang?
+#g
+m-ukuwa=lra	i	Valangaw	i	Pusang
+av-go=pfv	loc	Taitung	sg.nom	pn	
+主焦-去=完成	處所	臺東	單數.主格	人名
+#e Did Pusang go to Taitung?
+#c Pusang去臺東了嗎？
+#n lra强調“去過”；
+#n Vulangau在Kasavakan一般指“馬蘭阿美族”，亦可指地名“臺東”；
+#n 該句句尾上揚表問句，下降表肯定句（如下句）。
+
+##########
+
+#s mukuwa lra i Valangaw i Pusang.
+#g
+m-ukuwa=lra	i	Valangaw	i	Pusang
+av-go=pfv	loc	Taitung	sg.nom	pn	
+主焦-去=完成	處所	臺東	單數.主格	人名
+#e Pusang went to Taitung.
+#c Pusang去臺東了。
+
+##########
+
+#s i Simuy di i Pusang mukuwa lra i Dipung a adaman.
+#g
+i	Simuy di	i	Pusang m-ukuwa=lra	i	Dipung a
+sg.nom	pn	conj	sg.nom	pn	av-go=pfv	loc	Japan	real.det
+單數.主格	人名	連詞	單數.主格	人名	主焦-去=完成	處所	日本	實現.冠詞
+adaman
+yesterday
+昨天
+#e Simuy and Pusang went to Japan yesterday.
+#c Simuy和Pusang昨天去日本了。
+#n Dipung“日本”為外來語，也可寫作Dipun；
+#n 該句同下句僅語序有別，語意無區別。
+
+##########
+
+#s mukuwa lra i Dipung i Simuy di i Pusang a adaman.
+#g
+m-ukuwa=lra	i	Dipung	i	Simuy	di	i	Pusang	a
+av-go=pfv	loc	Japan	sg.nom	pn	conj	sg.nom	pn	real.det
+主焦-去=完成	處所	日本	單數.主格	人名	連詞	單數.主格	人名	實現.冠詞
+adaman
+yesterday
+昨天
+#e Simuy and Pusang went to Japan yesterday.
+#c Simuy和Pusang昨天去日本了。
+
+##########
+
+#s *mukuwa lra i Simuy di i Pusang i Dipung a adaman.
+#g
+m-ukuwa=lra	i	Simuy	di	i	Pusang	i	Dipung	a
+av-go=pfv	sg.nom	pn	conj	sg.nom	pn	loc	Japan	real.det
+主焦-去=完成	單數.主格	人名	連詞	單數.主格	人名	處所	日本	實現.冠詞
+adaman
+yesterday
+昨天
+#e Simuy and Pusang went to Japan yesterday.
+#c Simuy和Pusang昨天去日本了。
+
+##########
+
+#s muicas ku da bas mukuwa i Taipei kana iki.
+#g
+m-u-icas=ku	da	bas	m-ukuwa	i	Taipei	kana	iki
+av-go-above=1sg.nom	obl.indf	bus	av-go	loc	Taipei	obl.def	station	
+主焦-去-上面=1sg.主格	斜格.非限定	公車	主焦-去	處所	臺北	斜格.限定	車站
+#e I went to the Taipei Main Station by bus.
+#c 我搭公車去臺北車站。
+
+##########
+
+#s muicas ku da bas mukuwa i Taipei kana iki karuwa saya tuki.
+#g
+m-u-icas=ku	da	bas	m-ukuwa	i	Taipei	kana	iki
+av-go-above=1sg.nom	obl.indf	bus	av-go	loc	Taipei	obl.def	station
+主焦-去-上面=1sg.主格	斜格.非限定	公車	主焦-去	處所	臺北	斜格.限定	車站
+karuwa	sa-atuki
+about	one-clf	hour
+大約	一-量詞	小時
+#e It takes me about one hour to go to the Taipei Main Station by bus. 
+#c 我搭公車去臺北車站大約需要一個小時。
+#n karuwa字根ruwa“約會，約定”。
+
+##########
+
+#s ulra a sa vute’ a ’apuc kananku lima.
+#g
+ulra	a	sa	vute’	a	’apuc	kananku	lima
+exist	nom.indf	one	bunch.clf	lnk	flower	1sg.gen	hand
+有	主格.非限定 一 束.量詞	連繫詞 花	1sg.屬格 手
+#e There is a bunch of flowers (non-specified type) in my hand.
+#c 有一束花（不限定種類）在我的手中。
+#n a表非限定，不指定具體是什麽種類的花，na則指定了是某一種特定的花（見下句）； #n a與na的使用在同一句話中需前後對應。
+
+##########
+
+#s ulra na sa vute’ na ’apuc kananku lima.
+#g
+ulra	na	sa	vute’	na	’apuc	kananku	lima
+exist	nom.def	one	bunch.clf	lnk	flower	1sg.gen	hand	
+有	主格.非限定	一	束.量詞	連繫詞	花	1sg.屬格	手
+#e There is a bunch of flowers (specified type) in my hand.
+#c 有一束花（限定種類）在我的手中。
+
+##########
+
+#s ulra a saya a ’apuc kananku lima.
+#g
+ulra	a	sa-a	a	’apuc	kananku	lima
+exist	nom.indf	one-clf	lnk	flower	1sg.gen	hand	
+有	主格.非限定	一-量詞	連繫詞	花	1sg.屬格	手
+#e There is a flower in my hand.
+#c 有一朵花在我的手中。
+
+##########
+
+#s ku verayay i Simuy da mukecep misama’ da lruwaca a linggo.
+#g
+ku=veray-ay	i	Simuy	da	mukecep	misama’	da
+1sg.gen=give-lv	sg.nom	pn	obl.indf	ten	remaining	obl.indf
+1sg.屬格=給-處焦	單數.主格	人名	斜格.非限定	十	剩下	斜格.非限定
+lruwaca	a	linggo
+five	lnk	apple
+五	連繫詞	蘋果
+#e I give Simuy fifteen apples.
+#c 我給Simuy十五顆蘋果。
+#n pulu’lruwaca“十五”，為相對簡單的説法，句中示例為較傳統的説法； #n makavucaan和duwa pulu’都指“二十”，makavucaan即可指人又可指物；
+#n a linggo、da mukecep也可以説是da linggo、a mukecep，惟misama’ da lruwaca固定使用da。
+
+##########
+
+#s ku verayay i Simuy da mukecep misama’ da lruwaca da linggo.
+#g
+ku=veray-ay	i	Simuy	da	mukecep	misama’	da
+1sg.gen=give-lv	sg.nom	pn	obl.indf	ten	remaining	obl.indf
+1sg.屬格=給-處焦	單數.主格	人名	斜格.非限定	十	剩下	斜格.非限定
+lruwaca	da	linggo
+five	obl.indf	apple
+五	斜格.非限定 蘋果
+#e I give Simuy fifteen apples.
+#c 我給Simuy十五顆蘋果。
+
+##########
+
+#s ku verayay i Simuy a mekecep misama’ da lruwaca a linggo.
+#g
+ku=veray-ay	i	Simuy	a	mekecep	misama’	da	lruwaca
+1sg.gen=give-lv	loc	pn	nom.indf	ten	remaining	obl.indf	five
+1sg.屬格=給-處焦	處所	人名	主格.非限定	十	剩下	斜格.非限定	五
+linggo	lnk	apple
+連繫詞	蘋果
+#e I give Simuy fifteen apples.
+#c 我給Simuy十五顆蘋果。
+
+##########
+
+#s lruwaca ku ’ami harem.
+#g
+lruwaca=ku	’ami	harem
+five=1sg.nom	year	present
+五-1sg.主格	年	現在
+#e I am five years old now.
+#c 我今年五歲。
+
+##########
+
+#s menanimun nanku ’aliyan.
+#g
+me-na-nimun	nanku	’ali-an
+av-red-take.a.bath	1sg.gen	friend-pl
+主焦-重叠-洗澡	1sg.屬格	朋友.複數
+#e My friends are taking a bath.
+#c 我的朋友們正在洗澡。
+#n ’ali“朋友（單數）”，’alialiyan“朋友（很多）”；
+#n 本句對應問句為“你的朋友們在哪裡？”
+
+##########
+
+#s manimun nanku ’aliyan.
+#g
+manimun	nanku	’ali-an
+av-take.a.bath	1sg.gen	friend-pl
+主焦-洗澡	1sg.屬格	朋友-複數
+#e My friends are taking a bath.
+#c 我的朋友們正在洗澡。
+#n 本句對應問句為“你的朋友們在做什麽？”
+
+##########
+
+#s vulay nantu pinisenayan.
+#g
+vulay	nantu	p<in>i-senay-an	beautiful	3sg.gen	caus<pfv>-song-nmlz	美麗	3sg.屬格	使動<完成>-歌-名物化
+#e S/he sings so beautifully.
+#c 她/他的歌聲很好聽。
+#n salaw vulay“非常美麗”。
+
+##########
+
+#s ’inava nantu pinisenayan.
+#g
+’inava	nantu	p<in>i-senay-an
+good	3sg.gen	caus<pfv>-song-nmlz
+好 3sg.屬格 使動<完成>-歌-名物化
+#e S/he sings so beautifully.
+#c 她/他的歌聲很好聽。
+#n vengesar“帥”，vulay“美麗”，vangesaran“年輕人”，vulavulayan“未婚少女”，vulayan“美女”；
+#n turuma’an“我的配偶”；
+#n ina“媽媽輩女性”，tainayan“已婚婦女”；
+#n ruma’“家”；
+#n mulri“祖父祖母輩長輩”，後加男性或女性（類似於英語grand？）； #n malri“爸爸輩男性”，melri“不是”；
+#n 差兩輩都可以相互稱呼對方為mumu，但語氣會有差異。
+
+##########
+
+#s ku puwanay na linggo kana tu i icas di ngidiran kana ’apuc.
+#g
+ku=puwa-anay	na	linggo	kana	tu	i	icas	di	ngidiran
+1sg.gen=put-rf	nom.def	apple	obl.def	table	loc	above	conj	beside
+1sg.主格=放-參焦	主格.限定	蘋果	斜格.限定	桌子	處所	上面	連詞	旁邊
+’apuc	obl.def	flower
+斜格.限定	花
+#e I put the apple on the table, beside the flower.
+#c 我把蘋果放在桌子上，花的旁邊。
+#n tu“桌子”或代名詞。
+
+##########
+
+#s sahar ku kana sayhu semenay na ma’inay.
+#g
+sahar=ku	kana	sayhu	s<em>enay	na	ma’inay
+like=1sg.nom	obl.def	be.able.to	<av>song	lnk	male
+喜歡-1sg.主格	斜格.限定	會	<主焦>歌	連繫詞	男性
+#e I like boys who is good at singing.
+#c 我喜歡會唱歌的男生。
+#n vavayan“女生”。
+
+##########
+
+#s semasenay idu na ma’inay.
+#g
+s<em>a-senay	idu	na	ma’inay
+red<av>-song	prox.that	lnk	male
+重叠<主焦>-歌	近端.那	連繫詞	男性
+#e That boy is the person who si singing.
+#c 那個男生是正在唱歌的人。
+
+##########
+
+#s sahar ku kaninu.
+#g
+sahar=ku	kaninu
+like=1sg.nom	2sg.obl
+喜歡=1sg.主格	2sg.斜格
+#e I like you.
+#c 我喜歡你。
+
+##########
+
+#s salaw ku sahar kaninu.
+#g
+salaw=ku	sahar	kaninu
+very=1sg.nom	like	2sg.obl
+非常=1sg.主格	喜歡	2sg.斜格
+#e I like you so much.
+#c 我非常喜歡你。
+
+##########
+
+#s *salaw sahar ku kaninu.
+#g
+salaw	sahar=ku	kaninu
+very	like=1sg.nom	2sg.obl
+非常	喜歡=1sg.主格	2sg.斜格
+#e I like you so much.
+#c 我非常喜歡你。
+
+##########
+
+#s mara’inava tu senay kani Pusang (i intaw).
+#g
+mara-’inava	tu=senay	kani	Pusang	(i	intaw)
+compa-good	3sg.gen=song	sg.obl	pn	(sg.nom	3sg.neu)
+比較-好	3sg.屬格=歌	sg.斜格	人名	(單數.主格 3sg.中性格)
+#e S/he sings better than Pusang does.
+#c 她/他唱歌唱得比Pusang好。
+#n COMPA表Comparative；
+#n NEU表Neutral。
+
+##########
+
+#s semangalan.
+#g
+semangalan
+appreciate
+感謝
+#e Thank you.
+#c 謝謝。
+#n 此為較年長的人會使用的形式。
+
+##########
+
+#s lrayuwan.
+#g
+lrayuwan
+appreciate
+謝謝
+#e Thank you.
+#c 
+##########
+
+#s mukuwa mu i taigaku na kyukay (a) adaman.
+#g
+m-ukuwa=mu	i	taigaku	na	kyukay	(a)	adaman
+av-go=2pl.nom	loc	university	lnk	church	(real.det) yesterday 
+主焦-去=2pl.主格 處所 大學 連繫詞 教會 實現.冠詞 昨天
+#e You went to the church in the university yesterday.
+#c 昨天你們去了大學裡的教會。
+#n adamadaman，damadaman皆指”昨天“，也可用daman指”昨天“。
+
+##########
+
+#s mukuwa mu lra i taigaku na kyukay a adaman.
+#g
+m-ukuwa=mu=lra	i	taigaku	na	kyukay	a	adaman
+av-go=2pl.nom=pfv	loc	university	lnk	church	real.det	yesterday	
+主焦-去=2pl.主格=完成	處所	大學	連繫詞	教會	實現.冠詞	昨天
+#e You went to the church in the university yesterday.
+#c 昨天你們去了大學裡的教會。
+#n 注意本句及下句加lra的詞序。
+
+##########
+
+#s *mukuwa lra mu i taigaku na kyukay a adaman.
+#g
+m-ukuwa=lra=mu	i	taigaku	na	kyukay	a	adaman
+av-go=pfv=2pl.nom	loc	university	lnk	church	real.det	yesterday	
+主焦-去=完成=2pl.主格	處所	大學	連繫詞	教會	實現.冠詞	昨天
+#e You went to the church in the university yesterday.
+#c 昨天你們去了大學裡的教會。
+
+##########
+
+#s a adaman mu, mukuwa mu i taigaku na kyukay.
+#g
+a	adaman	mu	m-ukuwa=mu	i	taigaku	na	kyukay
+real.det	yesterday	top	av-go=2pl.nom	loc	university	lnk	church	
+實現.冠詞	昨天	主題	主焦-去=2pl.主格	處所	大學	連繫詞	教會
+#e You went to the church in the university yesterday.
+#c 昨天你們去了大學裡的教會。
+
+##########
+
+#s mukuwa mu i taigaku na kyukay a adaman a semavalr.
+#g
+m-ukuwa=mu	i	taigaku	na	kyukay	a	adaman	a
+av-go=2pl.nom	loc	university	lnk	church	real.det	yesterday	real.det
+主焦-去=2pl.主格	處所	大學	連繫詞	教會	實現.冠詞	昨天	實現.冠詞
+semavalr
+morning
+早上
+#e You went to the church in the university yesterday morning.
+#c 昨天早上你們去了大學裡的教會。
+#n karawucan“晚安”，karawuv“晚上”，指已經明確天黑的夜晚；
+#n semavalran“早安”，semavalr“早上”；
+#n ’arameng“暗”，’araremeng“傍晚”，指仍未完全天黑的時候。
+
+##########
+
+#s ?mukuwa mu a adaman i taigaku na kyukay.
+#g
+m-ukuwa=mu	a	adaman	i	taigaku	na	kyukay
+av-go=2pl.nom	real.det	yesterday	loc	university	lnk	church	
+主焦-去=2pl.主格	實現.冠詞	昨天	處所	大學	連繫詞	教會
+#e You went to the church in the university yesterday morning.
+#c 昨天早上你們去了大學裡的教會。
+#n adaman很少放在句中，大部分放在句首及句末。
+
+##########
+
+#s nu derunu mu ulra a re’a aekanan, nu vuceriyan mu uniyan (aekanan).
+#g
+nu	derun	mu	ulra	a	re’a	a-ekan-an	nu
+irr.ptcl	summer	top	exist	nom.indf	pineapple	red-eat-nmlz	irr.ptcl
+非實現.虛詞	夏天	主題	有	主格.非限定	鳳梨	重叠-吃-名物化	非實現.虛詞
+vuceriyan	mu	uniyan	(a-ekan-an)
+winter	top	not.exist	(red-eat-nmlz)
+冬天	主題	沒有	重叠-吃-名物化
+#e (We) have pineapples to eat in summer, but not in winter.
+#c 夏天有鳳梨吃，冬天沒有。
+#n aekanan“可以吃的，要吃的”；
+#n ekan“吃”，aekanan“調理前的食物”，aekanen“調理後的食物”；
+#n vencaceri“秋天”，kaseveran“春天”，sever“發芽”；
+#n derun“夏天”，derung“雷”，demaderung“打雷”。
+
+##########
+
+#s tu verayay ku da saya a vulraw i Pusang a adaman.
+#g
+tu=veray-ay=ku	da	sa-a	a	vulraw	i	Pusang	a
+3sg.gen=give-lv=1sg.nom	obl.indf	one-clf	lnk	fish	sg	pn	real.det
+3sg.屬格=給-處焦=1sg.主格	斜格.非限定	一-量詞	連繫詞	魚	單數	人名	實現.冠詞
+adaman
+yesterday
+昨天
+#e Pusang gave me a fish yesterday.
+#c Pusang昨天給了我一條魚。
+#n 句首tu指Pusang。
+
+##########
+
+#s *saya a vulraw mu tu verayay ku i Pusang a adaman.
+#g
+sa-a	a	vulraw	mu	tu=veray-ay=ku	i	Pusang	a
+one-clf	lnk	fish	top	3sg.gen=give-lv=1sg.nom	sg	pn	real.det
+一-量詞	連繫詞	魚	主題	3sg.屬格=給-處焦=1sg.主格	單數	人名	實現.冠詞
+adaman
+yesterday
+昨天
+#e Pusang gave me a fish yesterday.
+#c Pusang昨天給了我一條魚。
+
+##########
+
+#s a adaman mu tu verayay ku da saya a vulraw i Pusang.
+#g
+a	adaman	mu tu=veray-ay=ku	da	sa-aa
+real.det	yesterday	top	3sg.gen=give-lv=1sg.nom	obl.indf	one-clf	lnk
+實現.冠詞	昨天	主題	3sg.屬格=給-處焦=1sg.主格	斜格.非限定	一-量詞	連繫詞
+vulraw	i	Pusang
+fish	sg	pn
+魚	單數 人名
+#e Pusang gave me a fish yesterday.
+#c Pusang昨天給了我一條魚。
+
+##########
+
+#s paated da saya (a) tigami i Simuy kani Pusang.
+#g
+pa-ated	da	sa-a	(a)	tigami i	Simuy kani	Pusang
+caus-send	obl.indf	one-clf	(lnk) letter sg.nom pn sg.obl pn 
+使動-寄 斜格.非限定 一-量詞 (連繫詞) 信 單數.主格 人名 單數.斜格 人名
+#e Simuy sent a letter to Pusang.
+#c Simuy寄了一封信給Pusang。
+
+##########
+
+#s paated da saya (a) tigami kani Pusang i Simuy.
+#g
+pa-ated	da	sa-a	(a)	tigami kani	Pusang i	Simuy
+caus-send	obl.indf	one-clf	(lnk)	letter	sg.obl	pn	sg.nom	pn
+使動-寄	斜格.非限定	一-量詞	(連繫詞) 信	單數.斜格 人名	單數.主格 人名
+#e Simuy sent a letter to Pusang.
+#c Simuy寄了一封信給Pusang。
+
+##########
+
+#s aated da saya (a) tigami i Simuy kani Pusang.
+#g
+a-ated	da	sa-a	(a)	tigami i	Simuy kani	Pusang
+irr-send	obl.indf	one-clf	(lnk) letter sg.nom pn sg.obl pn 
+非實現-寄 斜格.非限定 一-量詞 (連繫詞) 信 單數.主格 人名 單數.斜格 人名
+#e Simuy is going to send a letter to Pusang.
+#c Simuy要寄一封信給Pusang。
+
+##########
+
+#s ?paated lra da saya (a) tigami kani Pusang i Simuy.
+#g
+pa-ated=lra	da	saya	(a)	tigami kani	Pusang i	Simuy
+caus-send=pfv	obl.indf	one	(lnk)	letter	sg.obl	pn	sg.nom	pn
+使動-寄=完成	斜格.非限定	一	(連繫詞) 信	單數.斜格 人名	單數.主格 人名
+#e Simuy sent a letter to Pusang.
+#c Simuy寄了一封信給Pusang。
+#n 不太自然，一般不太喜歡在一句中既有lra又有da；
+#n paated ku lra“我寄了”；
+#n velrevelr“香蕉”。
+
+##########
+
+#s pinaated lra da saya a tigami i Simuy kani Pusang.
+#g
+p<in>a-ated=lra	da	sa-a	(a)	tigami i	Simuy kani
+caus<pfv>-send=pfv	obl.indf	one-clf	(lnk)	letter	sg.nom	pn	sg.obl
+使動<完成>-寄=完成	斜格.非限定	一-量詞	(連繫詞) 信	單數.主格 人名 單數.斜格
+Pusang
+pn
+人名
+#e Simuy has sent a letter to Pusang already.
+#c Simuy已經寄了一封信給Pusang。
+
+##########
+
+#s mau na ’inava di vulay na alrak i Simuy.
+#g
+mau	na	’inava	di	vulay	na	alrak	i	Simuy
+is	nom.def	good	conj	beautiful	lnk	child	sg	pn	
+是	主格.限定	好	連詞	美麗	連繫詞	孩子	單數	人名
+#e Simuy is such a good and beautiful child.
+#c Simuy是一個既善良又漂亮的孩子。
+#n mau na“就是”，暫不確定目前的分解方式是否恰當；
+#n maumawu“只有，唯一”；
+#n lralrak“小孩（複數）”，alrak“小孩（單數）”。
+
+##########
+
+#s sasa ku alrak.
+#g
+sa-sa=ku=alrak
+red-one=1sg.nom	child
+重叠-一=1sg.主格	孩子
+#e I have a child.
+#c 我有一個孩子。
+
+##########
+
+#s papida nu lralrak?
+#g
+papida	nu=lralrak
+how.many	2sg.gen=child
+多少	2sg.屬格=孩子
+#e How many children do you have?
+#c 你有幾個孩子？
+#n papida“多少人”，僅用於問人數；
+#n munuman“多少錢”，nu ’ami“幾歲”。
+
+##########
+
+#s pidaya nu velrevelr?
+#g
+pidaya	nu=velrevelr
+how.many	2sg.gen=banana
+多少	2sg.屬格=香蕉
+#e How many bananas do you have? 
+#c 你有多少根香蕉？
+
+##########
+
+#s inu mu mau na ’inava di vulay na alrak.
+#g
+inu	mu	mau	na	’inava	di	vulay	na	alrak
+2sg.neu	top	is	nom.def	good	conj	beautiful	lnk	child
+2sg.中性格	主題	是	主格.限定	好	連詞	美麗	連繫詞	孩子
+#e You are such a good and beautiful child.
+#c 你是一個既善良又漂亮的孩子。
+
+##########
+
+#s munuman paisu ini na velrevelr.
+#g
+munuman	paisu	ini	na	velre-velr
+how.much	money	nom.this	lnk	red-banana	
+多少	錢	主格.這	連繫詞	重叠-香蕉
+#e How much is this banana?
+#c 這個香蕉多少錢？
+#n paysu可省略。
+
+##########
+
+#s cemacangis di venavalray tu vavalrayin i Simuy kantu vinseng.
+#g
+c<em>a-cangis	di	v<en>a-valray	tu=va-valray-in	i	Simuy
+red<av>-cry	conj	red<av>-book	3sg.gen=red-book-nmlz	sg.nom	pn	重叠<主焦>-哭	連詞	重叠<主焦>-書	3sg.屬格=重叠-書-名物化	單數.主格	人名
+kantu	vinseng
+3sg.gen	room
+3sg.屬格	房間
+#e Simuy cried while doing homework in her room yesterday.
+#c Simuy昨天在房間裡邊哭邊寫作業。
+#n valray“書”，vavalrayin“作業，要寫的東西”，vavalrayu“你寫”。
+
+##########
+
+#s *kantu vinseng cemacangis di venavalray tu vavalrayin i Simuy.
+#g
+kantu	vinseng	c<em>a-cangis	di	v<en>a-valray	tu=va-valray-in
+3sg.gen	room	red<av>-cry	conj	red<av>-book	3sg.gen=red-book-nmlz
+3sg.屬格	房間	重叠<主焦>-哭	連詞	重叠<主焦>-書	3sg.屬格=重叠-書-名物化
+Simuy
+sg.nom	pn
+單數.主格	人名
+#e Simuy cried while doing homework in her room yesterday.
+#c Simuy昨天在房間裡邊哭邊寫作業。
+
+##########
+
+#s kadu kantu vinseng cemacangis di venavalray tu vavalrayin i Simuy.
+#g
+kadu	kantu	vinseng	c<em>a-cangis	di	v<en>a-valray	tu=va-valray-in
+at	3sg.gen	room	red<av>-cry	conj	red<av>-book	3sg.gen=red-book-nmlz
+在	3sg.屬格 房間	重叠<主焦>-哭 連詞 重叠<主焦>-書 3sg.屬格=重叠-書-名物化
+Simuy
+sg.nom	pn
+單數.主格	人名
+#e Simuy cried while doing homework in her room yesterday.
+#c Simuy昨天在房間裡邊哭邊寫作業。
+#n 在句首加上kadu後句子重新成立。
+
+##########
+
+#s manay kantu lima mekan i valri na ma’inay.
+#g
+manay	kantu	lima	m-ekan	i	valri	na	ma’inay
+use	3sg.gen	hand	av-eat	sg.nom	older.sibling	lnk	male
+用	3sg.屬格 手	主焦-吃 單數.主格 兄/姐	連繫詞 男性
+#e My older brother eats with his hands.
+#c 我的哥哥用手吃飯。
+#n i valri“兄/姐（自己的）”，i vau“兄/姐（別人的）”，iva“兄/姐（直接稱呼時）”； #n wadilri“弟/妹（自己的）”，wadi“弟/妹”，wadi yu“你的弟/妹”，wadi taw“她/他的弟/妹”
+#n nani“媽媽”，nanilri“媽媽（自己的，很少講）”。
+
+##########
+
+#s sahar manay kantu lima mekan i valri na ma’inay.
+#g
+sahar	manay	kantu	lima	m-ekan	i	valri	na	ma’inay
+like	use	3sg.gen	hand	av-eat	sg.nom	older.sibling	lnk	male
+喜歡	用	3sg.屬格	手	主焦-吃	單數.主格	兄/姐	連繫詞	男性
+#e My older brother likes to eat with his hands.
+#c 我的哥哥喜歡用手吃飯。
+
+##########
+
+#s ma’ulid manay kana kalayup mekan da siyaw i valri na ma’inay.
+#g
+ma-’ulid	manay	kana	kalayup	m-ekan	da	siyaw	i	valri
+av-cannot	use	obl.def	spoon	av-eat	obl.indf	soup	sg.nom	older.sibling
+主焦-不會	用	斜格.限定	湯匙	主焦-吃	斜格.非限定	湯	單數.主格	兄/姐
+na	ma’inay
+lnk	male
+連繫詞	男性
+#e My older brother cannot drink soup with the spoon.
+#c 我的哥哥不會用湯匙喝湯。
+
+##########
+
+#s ma’ulid manay kana kalayup mekan da siyaw i vau na ma’inay.
+#g
+ma-’ulid	manay	kana	kalayup	m-ekan	da	siyaw	i	vau
+av-cannot	use	obl.def	spoon	av-eat	obl.indf	soup	sg.nom	older.sibling
+主焦-不會	用	斜格.限定	湯匙	主焦-吃	斜格.非限定	湯	單數.主格	兄/姐
+na	ma’inay
+lnk	male
+連繫詞	男性
+#e The older brother cannot drink soup with the spoon.
+#c 哥哥不會用湯匙喝湯。
+#n ’emaa’u“喝”，a’u“喝（液體）”，cekel“喝酒”；
+#n 可同時用kana也可同時用da。
+
+##########
+
+#s cekeli.
+#g
+cekel-i
+drink-imp
+喝-祈使
+#e Drink.
+#c 你喝吧。
+#n 含命令語氣。
+
+##########
+
+#s alra cekelaw.
+#g
+alra	cekel-aw
+let.us	drink-adm
+讓	喝-規勸
+#e Let’s drink.
+#c 一起喝吧。
+#n 含規勸語氣；
+#n adm表Admonition。
+
+##########
+
+#s salrangana ta cemekel.
+#g
+salrangan-a=ta	c<em>ekel
+together-irr=1pl.incl	<av>drink
+一起-非實現=1pl.包含式	<主焦>喝
+#e Let’s drink together.
+#c 我們一起喝吧。
+#n salrangan“一起”，salrangana“一起去”。
+
+##########
+
+#s salrangana ta mukuwa i Dipung.
+#g
+salrangan-a=ta	m-ukuwa	i	Dipung
+together-irr=1pl.incl	av-go	loc	Japan
+一起-非實現=1pl.包含式	主焦-去	處所	日本
+#e Let’s go to Japan together.
+#c 我們一起去日本吧。
+
+##########
+
+#s maranger mekan da vulraw a adaman, a harem di nu ’emanan i Simuy.
+#g
+ma-anger	m-ekan	da	vulraw	a	adaman	a	harem	di
+av-want	av-eat	obl.indf	fish	real.det	yesterday	real.det	today	conj
+主焦-想	主焦-吃	斜格.非限定	魚	實現.冠詞	昨天	實現.虛詞	今天	連詞
+nu	’emanan	i	Simuy
+irr.ptcl	tomorrow	sg.nom	pn
+非實現.虛詞	明天	單數.主格	人名
+#e Simuy wants to eat fish yesterday, today and tomorrow.
+#c Simuy昨天、今天和明天都想吃魚。
+#n a一般加在已經完成的時間前，nu加在未來時間前；
+#n anger“想”，sinzo“心臟”；
+#n 不清楚為和此句maranger中出現mar-，參考語法概論p109將maranger標為以上。
+
+##########
+
+#s ?a adaman, a harem di nu ’emanan mu maranger mekan da vulraw i Simuy.
+#g
+a	adaman	a	harem di	nu	’emanan mu ma-anger
+real.det	yesterday	real.det	today	conj	irr.ptcl	tomorrow	top	av-want
+實現.冠詞	昨天	實現.虛詞	今天	連詞	非實現.虛詞	明天	主題	主焦-想
+m-ekan	da	vulraw	i	Simuy
+av-eat	obl.indf	fish	sg.nom	pn
+主焦-吃	斜格.非限定	魚	明天	單數.主格
+#e Simuy wants to eat fish yesterday, today and tomorrow.
+#c Simuy昨天、今天和明天都想吃魚。
+#n 語法通順但不常用。
+
+##########
+
+#s ?a adaman di a harem di nu ’emanan mu maranger mekan da vulraw i Simuy.
+#g
+a	adaman	di	a	harem di	nu	’emanan mu ma-anger
+real.det	yesterday	conj	real.det	today	conj	irr.ptcl	tomorrow	top	av-want
+實現.冠詞	連詞	昨天	實現.虛詞	今天	連詞	非實現.虛詞	明天	主題	主焦-想
+m-ekan	da	vulraw	i	Simuy
+av-eat	obl.indf	fish	sg.nom	pn
+主焦-吃	斜格.非限定	魚	明天	單數.主格
+#e Simuy wants to eat fish yesterday, today and tomorrow.
+#c Simuy昨天、今天和明天都想吃魚。
+#n 語法通順但不常用。
+
+##########
+
+#s maranger mekan da vulraw a adaman, a harem di nu ’emanan i Pusang i Simuy di Lutan.
+#g
+ma-anger	m-ekan	da	vulraw	a	adaman	a	harem	di
+av-want	av-eat	obl.indf	fish	real.det	yesterday	real.det	today	lnk
+主焦-想	主焦-吃	斜格.非限定	魚	實現.冠詞	昨天	實現.虛詞	今天	連繫詞
+nu	’emanan	i	Pusang	i	Simuy	di	Luyan
+irr.ptcl	tomorrow	sg.nom	pn	sg.nom	pn	lnk	pn
+非實現.虛詞	明天	單數.主格	人名	單數.主格	人名	連繫詞	人名
+#e Pusang,Simuy and Lutan want to eat fish yesterday, today and tomorrow.
+#c Puang，Simuy和Lutan昨天、今天和明天都想吃魚。
+#n 換成i Pusang di Simuy di Lutan亦可。
+
+##########
+
+#s miotobay di cemapalr kana kawi i malri a haremay.
+#g
+mi-otobay	di	c<em>epalr	kana	kawi	i	malri	a
+with-motorbike	conj	<av>run.into	obl.def	tree	sg.nom	father	real.det
+伴隨-摩托車	連詞	<主焦>撞	斜格.限定	樹	單數.主格	爸爸	實現.冠詞
+haremay
+just.now
+剛剛
+#e My father just hit the tree on his motorbike.
+#c 我爸爸剛剛騎摩托車撞到樹。
+#n haremaremay“等一下”，haremay lra“等一下嘛”，hareharemay lra“等一下啦”，
+後兩者皆帶不耐煩的語感。
+
+##########
+
+#s miaotobay ku harem.
+#g
+mi-a-otobay=ku	harem
+with-red-motoebike=1sg.nom	today
+伴隨-重叠-摩托車=1sg.主格	今天
+#e I am riding a motorbike.
+#c 我正在騎摩托車。
+
+##########
+
+#s paated da saya a pawko i Simuy palru i Dipung.
+#g
+pa-ated	da	sa-a	a	pawko	i	Simuy	palru	i	Dipung
+caus-send	obl.indf	one-clf	lnk	parcel	sg.nom	pn	to	loc	Japan
+使動-寄	斜格.非限定	一-量詞	連繫詞	包裹	單數.主格	人名	去	處所	日本
+#e Simuy sent a parcel to Japan.
+#c Simuy寄了一個包裹去日本。
+#n 寄到某地時前加palru，寄給某人不用加。
+
+##########
+
+#s paated da saya a pawko palru i Dipung i Simuy.
+#g
+pa-ated	da	sa-a	a	pawko	palru	i	Dipung	i	Simuy
+caus-send	obl.indf	one-clf	lnk	parcel	to	loc	Japan	sg.nom	pn	
+使動-寄	斜格.非限定	一-量詞	連繫詞	包裹	去	處所	日本	單數.主格	人名
+#e Simuy sent a parcel to Japan.
+#c Simuy寄了一個包裹去日本。
+
+##########
+
+#s tu paatedanay da saya a pawko i Dipung i Simuy.
+#g
+tu=pa-ated-anay	da	sa-a	a	pawko	i	Dipung	i	Simuy
+3sg.gen=caus-send-rv	obl.indf	one-clf	lnk	parcel	loc	Japan	sg	pn	
+3sg.屬格=使動-寄-參焦	斜格.非限定	一-量詞	連繫詞	包裹	處所	日本	單數	人名
+#e Simuy sent a parcel to Japan.
+#c Simuy寄了一個包裹去日本。
+
+##########
+
+#s tu paateday na pawko i Dipung i Simuy.
+#g
+tu=pa-ated-ay	na	pawko	i	Dipung	i	Simuy
+3sg.gen=caus-send-lv	nom.def	parcel	loc	Japan	sg	pn	
+3sg.屬格=使動-寄-處焦	主格.限定	包裹	處所	日本	單數	人名
+#e Simuy sent the parcel to Japan.
+#c Simuy寄了那個包裹去日本。
+
+##########
+
+#s i Simuy mu paated da saya a pawko i Dipung.
+#g
+i	Simuy mu	pa-ated	da	saya a	pawko i	Dipung
+sg.nom	pn	top	caus-send	obl.indf	one	lnk	parcel	loc	Japan
+單數.主格	人名	主題	使動-寄	斜格.非限定	一	連繫詞	包裹	處所	日本
+#e Simuy sent a parcel to Japan.
+#c Simuy寄了一個包裹去日本。
+
+##########
+
+#s na pawko mu tu paateday i Dipung i Simuy.
+#g
+na	pawko	mu	tu=pa-ated-ay	i	Dipung	i	Simuy
+nom.def	parcel	top	3sg.gen=caus-send-lv	loc	Japan	sg	pn	
+主格.限定	包裹	主題	3sg.屬格=使動-寄-處焦	處所	日本	單數	人名
+#e Simuy sent the parcel to Japan.
+#c Simuy寄了那個包裹去日本。
+
+##########
+
+#s i Simuy mu paateday na pawko i Dipung.
+#g
+i	Simuy mu	pa-ated-ay	na	pawko i	Dipung
+sg.nom	pn	top	caus-send-lv	nom.def	parcel	loc	Japan
+單數.主格	人名	主題	使動-寄出-處焦	主格.限定	包裹	處所	日本
+#e Simuy sent the parcel to Japan.
+#c Simuy寄了那個包裹去日本。
+
+##########
+
+#s pakulima na vulraw i lrevek, kemakawang na sudang i lrevek, muvaii na a’yan kana lrevek
+#g
+i icas.
+pakulima	na	vulraw	i	lrevek,	k<em>a-kawang	na	sudang	i
+swim	nom.def	fish	loc	sea	red<av>-walk	nom.def	ship	loc
+游泳	主格.限定	魚	處所	海	重叠<主焦>-走	主格.限定	船	處所
+lrevek,	m-u-va-vii	na	a’yan	kana	lrevek	i	icas
+sea	av-irr-red-fly	nom.def	birds	obl.indf	sea	loc	above
+海	主焦-非實現-重叠-飛 主格.限定 鳥	斜格.非限定 海	處所 上面
+#e Fish swim in the sea, boats float in the sea, birds fly in the sea.
+#c 魚在海裡游，船在海上行，鳥在海上飛。
+#n vii“飛”，uvavii“要飛了”；
+#n icas“在上面”，piyaicas“向上”，piyaalusu“向下”。
+
+##########
+
+#s i eman na sahar mekan kana kemay i lrevek na vulraw.
+#g
+i	eman na	sahar m-ekan	kana	kemay i	lrevek na	vulraw
+sg	what	nom.def	like	av-eat	obl.def	from	loc	sea	lnk	fish
+單數	什麽	主格.限定	喜歡	主焦-吃	斜格.限定	從	處所	海	連繫詞	魚
+#e Who likes to eat the fish in the sea?
+#c 誰喜歡吃大海裡的魚？
+#n i eman“誰”，a eman“什麽東西”。
+
+##########
+
+#s a eman idu na haramhaman.
+#g
+a	eman idu	na	haramhaman
+nom.indf	what	prox.that	lnk	animal	
+主格.非限定	什麽	近端.那	連繫詞	動物
+#e What kind of animal is that?
+#c 那是什麽動物？
+
+##########
+
+#s ulra i iyan nanku pinavulasanay kannu na valray a adaman.
+#g
+ulra	i	iyan	nanku	p<in>a-vulas-anay	kannu	na	valray	a
+exist	loc	where	1sg.gen	caus<pfv>-lend-RV	2sg.obl	lnom.def	book	real.det
+有	處所 哪裡 1sg.屬格 使動<完成>-借-參焦 2sg.斜格 主格.限定 書	實現.冠詞
+adaman
+yesterday
+昨天
+#e Where is the book I lent you yesterday?
+#c 我昨天借你的書在哪裡？
+#n vulas“借”，veras“米”；
+#n real表realis。
+
+##########
+
+#s ulra i iyan nanku pinavulasan kannu na valray a adaman.
+#g
+ulra	i	iyan	nanku	p<in>a-vulas-an	kannu	na	valray	a
+exist	loc	where	1sg.gen	caus<pfv>-lend-nmlz	2sg.obl	nom.def	book	real.det
+有	處所 哪裡 1sg.屬格 使動<完成>-借-名物化 2sg.斜格 主格.限定 書	實現.冠詞
+adaman
+yesterday
+昨天
+#e Where is the book I lent you yesterday?
+#c 我昨天借你的書在哪裡？
+#n pinavulasan“我借給你的書”，表受惠者。
+
+##########
+
+#s *ulra i iyan a nanku pinavulasan kannu na valray a adaman.
+#g
+ulra	i	iyan	a	nankup<in>a-vulas-an	kannuna
+exist	loc	where	nom.indf	1sg.gen	caus<pfv>-lend-nmlz	2sg.obl	nom.def
+有	處所 哪裡 主格.非限定 1sg.屬格 使動<完成>-借-名物化 2sg.斜格 主格.限定
+valray	a	adaman
+book	real.det	yesterday
+書	實現.冠詞 昨天
+#e Where is the book I lent you yesterday?
+#c 我昨天借你的書在哪裡？
+
+##########
+
+#s ulra i iyan nannu dadek a harem?
+#g
+ulra	i	iyan	nannu	dadek	harem
+exist	loc	where	2sg.gen	body	today
+有	處所 哪裡 2sg.屬格 身體 今天
+#e Where are you now?
+#c 你現在在哪裡？
+#n 帶有諷刺意味，語意接近“你最近到底都跑到哪裡去了？”；
+#n nannu亦可替換為nahenu。
+
+##########
+
+#s na sinaleman na ’apuc a vuceriyan mu, vavekal nu mare’ami nu derun.
+#g
+na	s<in>alem-an	na	’apuc	a	vuceriyan	mu	va-vekal
+nom.def	<pfv>plant-nmlz	lnk	flower	real.det	winter	top	red-bloom
+主格.限定	<完成>種-名物化	連繫詞	花	實現.冠詞	冬天	主題	重叠-開花
+nu	mare’ami	nu	derun
+irr.ptcl	next.year	irr.ptcl	summer	非實現.虛詞	明年	非實現.虛詞	夏天
+#e The flowers planted this winter will bloom next summer.
+#c 今年冬天種的花，明年夏天會開。
+#n vekal“開”，vavekal“要開”，venekal“開花了”，該詞僅能用於指花和新的東西，不能用於形容描述其他物品。
+#n sinaleman“種過的”，salen“種”，saruman“以前”；
+#n mare’ami“明年”，’ami“年”，daman a ‘ami“去年”，dadaman a ’ami“前年”； #n vulan“月，月亮”，makalusu“下面”，makalusu a vulan“下個月”，makaicas a vulan“上個月”。
+
+##########
+
+#s piwari muruma’ i Pusang a adaman semalra kikaselru kani taina taw.
+#g
+piwari	m-u-ruma’i	Pusang	a	adaman	semalra	ki-ka-selru
+ate	av-go-house	sg.nom	pn	real.det	yesterday	so	pass-ka-scold
+晚	主焦-去-房子 單數.主格 人名	實現.冠詞 昨天	所以	被動-ka-罵
+kani	taina-taw
+sg.obl	mother-3sg.gen
+單數.斜格	媽媽-3sg.屬格
+#e Pusang came home late yesterday, so he was scolded by his mother.
+#c 昨天Pusang很晚才回家，所以被媽媽罵了。
+#n selru“罵”，kikaselru“被駡”，kaselru“要駡”；
+#n muruma’“回家”，waruma’kulra“我要回家了”，uruma’“回家（命令語氣）”； #n taina“媽媽（第二人稱）”，ina“媽媽、阿姨（直稱）”。
+
+##########
+
+#s piwari muruma’ a adaman i Pusang semalra kikaselru kani taina taw.
+#g
+piwari	m-u-ruma’	a	adaman	i	Pusang	semalra	ki-ka-selru
+late	av-go-house	real.det	yesterday	sg.nom	pn	so	pass-ka-scold
+晚	主焦-去-房子 實現.冠詞 昨天	單數.主格 人名	所以	被動-ka-罵
+kani	taina-taw
+sg.obl	mother-3sg.gen
+單數.斜格	媽媽-3sg.屬格
+#e Pusang came home late yesterday, so he was scolded by his mother.
+#c 昨天Pusang很晚才回家，所以被媽媽罵了。
+
+##########
+
+#s *muruma’ piwari i Pusang a adaman semalra kikaselru kani taina taw.
+#g
+m-u-ruma’	pi-wari	i	Pusang	a	adaman	semalra	ki-ka-selru
+av-go-house	late	sg.nom	pn	real.det	yesterday	so	pass-ka-scold
+主焦-去-房子	晚	單數.主格	人名	實現.冠詞	昨天	所以	被動-ka-罵
+kani	taina-taw
+sg.obl	mother-3sg.gen
+單數.斜格	媽媽-3sg.屬格
+#e Pusang came home late yesterday, so he was scolded by his mother.
+#c 昨天Pusang很晚才回家，所以被媽媽罵了。
+
+##########
+
+#s *semalra kikaselru kani taina taw muruma’ piwari i Pusang a adaman.
+#g
+semalra	ki-ka-selru	kani	taina-taw	m-u-ruma’piwari	i
+so	pass-ka-scold	sg.obl	mother-3sg.gen	av-go-home	late	sg.nom
+所以	被動-ka-罵	單數.斜格	媽媽-3sg.屬格	主焦-去-房子	晚	單數.主格
+Pusang	a	adaman
+pn	real.det	yesterday
+人名	實現.冠詞	昨天
+#e Pusang came home late yesterday, so he was scolded by his mother.
+#c 昨天Pusang很晚才回家，所以被媽媽罵了。
+
+##########
+
+#s kikaselru ku a adaman.
+#g
+ki-ka-selru=ku	a	adaman	
+pass-ka-scold=1sg.nom	real.det	yesterday
+被動-ka-駡=1sg.主格	實現.冠詞	昨天
+#e I was scolded yesterday.
+#c 我昨天被駡了。
+
+##########
+
+#s kikaselru ku lra a adaman.
+#g
+ki-ka-selru=ku=lra	a	adaman	
+pass-ka-scold=1sg.nom=pfv	real.det	yesterday
+被動-ka-駡=1sg.主格=完成	實現.冠詞	昨天
+#e I was scolded yesterday.
+#c 我昨天被駡了。
+
+##########
+
+#s *kikaselru lra ku a adaman.
+#g
+ki-ka-selru=lra=ku	a	adaman	
+pass-ka-scold=pfv=1sg.nom	real.det	yesterday
+被動-ka-駡=完成=1sg.主格	實現.冠詞	昨天
+#e I was scolded yesterday.
+#c 我昨天被駡了。
+
+##########
+
+#s kiakaselru ku nu ’emanan kani sinsi.
+#g
+ki-a-kas-elru=ku	nu	’emanan	kani	sinsi
+pass-irr-ka-scold=1sg.nom	irr.ptcl	tomorrow	sg.obl	teacher	
+被動-非實現-ka-駡=1sg.主格	非實現.虛詞	明天	單數.斜格	老師
+#e I will be scolded by the teacher tomorrow.
+#c 我明天會被老師罵。
+#n 特定指某位老師。
+
+##########
+
+#s kiakaselru ku nu ’emanan kana sinsi.
+#g
+ki-a-ka-selru=ku	nu	’emanan	kana	sinsi
+pass-irr-ka-scold=1sg.nom	irr.ptcl	tomorrow	pl.obl	teacher
+被動-非實現-非實現-駡=1sg.主格	非實現.虛詞	明天	複數.斜格	老師
+#e I will be scolded by the teacher tomorrow.
+#c 我明天會被老師罵。
+#n 不特定指某位老師；
+#n 單數使用kani，複數使用kana。
+
+##########
+
+#s rapi’ tu dadek.
+#g
+rapi’	tu=dadek
+tired	3sg.gen=body
+累 3sg.屬格=身體
+#e S/he is so tired.
+#c 她/他的身體很累。
+#n 可在句首加pacev表示程度強。
+
+##########
+
+#s nana tu dadek.
+#g
+nana	tu=dadek
+pain	3sg.gen=body
+痛 3sg.屬格=身體
+#e Her/his body is in pain.
+#c 她/他的身體很痛。
+
+##########
+
+#s nana ku canure’.
+#g
+nana	ku=canure’
+pain	1sg.gen=head
+痛 1sg.屬格=頭
+#e My head hurts.
+#c 我的頭好痛。
+#n 撞到的痛用nana，感冒頭痛的痛用vacing。
+
+##########
+
+#s vacing ku canure’.
+#g
+vacing	ku=canure’
+pain	1sg.gen=head
+痛 1sg.屬格=頭
+#e My head hurts.
+#c 我的頭好痛。
+
+##########
+
+#s vacing ku a.
+#g
+vacing=ku	a
+pain=1sg.nom	emp
+痛=1sg.主格	强調
+#e My head really hurts.
+#c 我的頭好痛啊。
+#n emp表Emphasize。
+
+##########
+
+#s ?na alralrupe’ idu na alrak mu kivalruk kana pacev na derungan di pakilev cemacangis tu kaukaudan.
+#g
+na	alr-alrupe’	idu	na	alrak	mu	ki-valruk	kana	pacev
+sg.nom	red-sleep	prox.that	lnk	child	top	pass-wake.up	obl.def	fierce
+單數.主格	重叠-睡覺	近端.那	連繫詞	孩子	主題	被動-醒	斜格.限定	猛烈
+na	derungan	di	pakilev	c<em>a-cangis=tu	kau-kaudan
+lnk	thunder	conj	loud	red<av>-cry=1sg.nom	red-threaten	連繫詞	雷	連詞	大聲	重叠<主焦>-哭=1sg.主格	重叠-嚇
+#e The sleeping child was woken up by the loud thender and cried with fear. 
+#c 那個正在睡覺的小孩被巨大的雷聲吵醒，嚇得大哭。
+#n 語感不如(24)好；
+#n kaud“怕”，kaukaudan“嚇”，kaudan“嚇壞”；
+#n pakilev“聲音大”；
+#n pacev“猛烈”，可以形容雷聲、雨水。
+
+##########
+
+#s idu na alralrupe’ na alrak mu kivalruk kana pacev na derungan di pakilev cemacangis tu kaukaudan.
+#g
+idu	na	alr-alrupe’	na	alra	mu	ki-valrukkana	pacev
+prox.tha	sg.nom	red-sleep	lnk	child	top	pass-wake.up	obl.def	fierce
+近端.那	單數.主格	重叠-睡覺	連繫詞	孩子	主題	被動-醒	斜格.限定	猛烈
+na	derungan	di	pakilev	c<em>a-cangis=tu	kau-kaudan
+lnk	thunder	conj	loud	red<av>-cry=1sg.nom	red-threaten
+連繫詞	雷	連詞	大聲	重叠<主焦>-哭=1sg.主格	重叠-嚇
+#e The sleeping child was woken up by the loud thender and cried with fear. 
+#c 那個正在睡覺的小孩被巨大的雷聲吵醒，嚇得大哭。
+
+##########
+
+#s sasenay kana vulay na senay i Simuy nu ’emanan.
+#g
+sa-senay	kana	vulay	na	senay	i	Simuy	nu	’emanan
+red-song	obl.def	beautiful	lnk	song	sg.nom	pn	irr.ptcl	tomorrow	
+重叠-歌	斜格.限定	美麗	連繫詞	歌	單數.主格	人名	非實現.虛詞	明天
+#e Simuy will sing beautiful songs tomorrow.
+#c Simuy明天會唱好聽的歌。
+
+##########
+
+#s sasenay pakinger kanta i Simuy nu ’emanan.
+#g
+sa-senay	pa-kinger	kanta	i	Simuy	nu	’emanan
+red-song	caus-listen.to	1pl.obl.incl	sg.nom	pn	irr.ptcl	tomorrow	
+重叠-歌	使動-聽	1pl.斜格.包含式	單數.主格	人名	非實現.虛詞	明天
+#e Simuy will sing for us tomorrow.
+#c Simuy明天會唱歌給我們聽。
+
+##########
+
+#s kakinger ku a senay.
+#g
+ka-kinger=ku	a	senay	
+red-listen.to=1sg.nom	nom.indf	song
+重叠-聽=1sg.主格	主格.非限定	歌
+#e I’m going to listen to some songs.
+#c 我要聽歌了。
+#n 不限定何種歌。
+
+##########
+
+#s kakinger ku na senay.
+#g
+ka-kinger=ku	na	senay
+red-listen.to=1sg.nom	nom.def	song
+重叠-聽=1sg.主格	主格.限定	歌
+#e I’m going to listen to some songs.
+#c 我要聽歌了。
+#n 限定某種歌。
+
+##########
+
+#s kikingeri tu senay.
+#g
+ki-kinger-i	tu=senay
+get-listen.to-imp	3sg.gen=song
+取得-聽-祈使	3sg.屬格=歌
+#e Listen carefully to her/his songs.
+#c 注意聽她/他的歌。
+
+##########
+
+#s kikingeri tu ngai na sinsi.
+#g
+ki-kinger-i	tu=ngai	na	sinsi
+get-listen.to-imp	3sg.gen=words	lnk	teacher	
+取得-聽-祈使	3sg.屬格=話	連繫詞	老師
+#e Listen carefully to the teacher.
+#c 注意聽老師的話。
+
+##########
+
+#s kikingeri na ngai na sinsi.
+#g
+ki-kinger-i	na	ngai	na	sinsi
+get-listen.to-imp	nom.def	words	lnk	teacher	
+取得-聽-祈使	主格.限定	話	連繫詞	老師
+#e Listen carefully to the teacher.
+#c 注意聽老師的話。
+
+##########
+
+#s kana tu i icas na linggo mu mau tu cinima’an i Umang.
+#g
+kana	tui	icas	na	linggo	mu	mau	tu=c<in>ima’-an
+obl.def	table	loc	above	nom.def	apple	top	is	3sg.gen=<pfv>buy-nmlz
+斜格.限定	桌子	處所	上面	主格.限定	蘋果	主題	是	3sg.屬格=<完成>買-名物化
+Umang
+sg	pn
+單數	人名
+#e The apple on the table is bought by Umang.
+#c 桌子上的蘋果是Umang買的。
+#n cima’“買，經濟”，cima’an“所買的”，cacima“要買”；
+#n niwan“賣”，naniwan“要賣”。
+
+##########
+
+#s *kana tu i icas na linggo mu mau tu cinima’an lra i Umang.
+#g
+kana	tui	icas	na	linggo	mu	mau	tu=c<in>ima’-an=lra
+obl.def	table	loc	above	nom.def	apple	top	is	3sg.gen=<pfv>buy-nmlz=pfv
+斜格.限定	桌子	處所	上面	主格.限定	蘋果	主題	是	3sg.屬格=<完成>買-名物化=完成
+Umang
+sg	pn
+單數	人名
+#e The apple on the table is bought by Umang.
+#c 桌子上的蘋果是Umang買的。
+
+##########
+
+#s kana tu i icas na linggo mu mau na tu cinima’an i Umang
+#g
+kana	tu	i	icas	na	linggo	mu	mau	na
+obl.def	table	loc	above	nom.def	apple	top	is	nom.def
+斜格.限定	桌子	處所	上面	主格.限定	蘋果	主題	是	主格.限定
+tu=c<in>ima’-an	i	Umang
+3sg.gen=<pfv>buy-nmlz	sg	pn
+3sg.屬格=<完成>買-名物化	單數	人名
+#e The apple on the table is bought by Umang.
+#c 桌子上的蘋果是Umang買的。
+
+##########
+
+#s ulra i makalaud kana Taiwan i Kasavakan.
+#g
+ulra	i	makalaud	kana	Taiwan	i	Kasavakan
+exist	loc	eastside	obl.def	Taiwan	loc	Kasavakan
+有	處所 東邊	斜格.限定 台灣	處所 建和部落
+#e Kasavakan is in the east of Taiwan.
+#c 建和部落在台灣的東部。
+#n laud“東，向海”；
+#n laya“西，向山”，makadaya“西族卑南語”，piyalaya“向西”；
+#n ’ami“北”，maka’ami“北邊”，amis“（臺東）阿美族”，piya’ami“向北”； #n kedet“南”，makakedet“南邊”，piyakedet“向南”，此字建和較常用； #n timul“南”，此字南王較常用，並也是proto-form。
+
+##########
+
+#s piyalaud ku kemakawang.
+#g
+piyalaud=ku	k<em>a-kawang
+eastward=1sg.nom	red<av>-walk
+向東=1sg.主格	重叠<主焦>-走
+#e Go eastward.
+#c 向東行。
+
+##########
+
+#s piyalaud ku makawang.
+#g
+piyalaud=ku	ma-kawang
+eastward=1sg.nom	av-walk
+向東=1sg.主格	主焦-走
+#e Go eastward.
+#c 向東行。
+#n 此時makawang僅指走路，不可指開車。
+
+##########
+
+#s *ulra i makalaud i Taiwan i Kasavakan.
+#g
+ulra	i	makalaud	i	Taiwan	i	Kasavakan
+exist	loc	eastside	loc	Taiwan	loc	Kasavakan
+有	處所 東邊	處所 台灣	處所 建和部落
+#e Kasavakan is in the east of Taiwan.
+#c 建和部落在台灣的東部。
+#n 認為太多i，造成句意不順。
+
+##########
+
+#s ulra kana makalaud i Taiwan i Kasavakan.
+#g
+ulra	kana	makalaud	i	Taiwan	i	Kasavakan
+exist	obl.def	eastside	loc	Taiwan	loc	Kasavakan
+有	斜格.限定 東邊	處所 台灣	處所 建和部落
+#e Kasavakan is in the east of Taiwan.
+#c 建和部落在台灣的東部。
+
+##########
+
+#s ulra kana makalaud i Taiwan kana Kasavakan.
+#g
+ulra	kana	makalaud	i	Taiwan	kana	Kasavakan
+exist	obl.def	eastside	loc	Taiwan	obl.def	Kasavakan
+有	斜格.限定 東邊	處所 台灣	斜格.限定 建和部落
+#e Kasavakan is in the east of Taiwan.
+#c 建和部落在台灣的東部。
+
+##########
+
+#s ulra a linggo kana tu i icas.
+#g
+ulra	a	linggo	kana	tu	i	icas
+exist	nom.indf	apple	obl.def	table	loc	above
+有	主格.非限定 蘋果 斜格.限定 桌子 處所 上面
+#e There is an apple on the table.
+#c 桌子上有一個蘋果。
+
+##########
+
+#s kana makalaud i ruma’.
+#g
+kana	makalaud	i	ruma’
+obl.def	eastside	loc	house
+斜格.限定	東邊	處所	房子
+#e The house on east of my home.
+#c 在我家東邊的房子。
+
+##########
+
+#s i makalaud i ruma’.
+#g
+i	makalaud i	ruma’
+loc	eastside	loc	house
+處所	東邊	處所	房子
+#e The house on east of my home.
+#c 在我家東邊的房子。
+
+##########
+
+#s i makalaud na ruma’.
+#g
+i	makalaud na	ruma’
+loc	eastside	nom.def	house
+處所	東邊	主格.限定	房子
+#e The house on east of my home.
+#c 在我家東邊的房子。
+
+##########
+
+#s i makalaud kana ruma’.
+#g
+i	makalaud kana	ruma’
+loc	eastside	obl.def	house
+處所	東邊	斜格.限定	房子
+#e The house on east of my home.
+#c 在我家東邊的房子。
+
+##########
+
+#s tawar lra.
+#g
+tawar=lra
+take.care=pfv
+慢走=完成
+#e Please take care.
+#c 請慢走。
+
+##########
+
+#s ku pakarunay i Simuy pulralrang pakaveray na valray kani Pusang.
+#g
+ku=pa-karun-ay	i	Simuy	pulralrang	pa-ka-veray	na	valray
+1sg.gen=caus-work-lv	sg.nom	pn	help	caus-ka-give	def	book
+1sg.屬格=使動-工作-處焦	單數.主格	人名	幫忙	使動-ka-給	限定	書
+kani	Pusang
+sg.obl	pn
+單數.斜格	人名
+#e I asked Simuy to take the book to Pusang.
+#c 我請Simuy幫忙把書拿給Pusang。
+#n 該句與下句依目前所見句意沒有太大區別； #n karun“工作”，pakarunay“請某人工作”；
+#n pulralrang“幫忙，協助”，lralrang“同學，同伴”，nanku lralrang“她是我的同伴”。
+
+##########
+
+#s pakarun ku kani Simuy pulralrang pakaveray na valray kani Pusang.
+#g
+pa-karun=ku	kani	Simuy	pulralrang	pa-ka-veray	na	valray	kani
+caus-work=1sg.nom	sg.obl	pn	help	caus-ka-give	def	book	sg.obl
+使動-工作=1sg.主格	單數.斜格	人名	幫忙	使動-ka-給	限定	書	單數.斜格
+Pusang
+pn
+人名
+#e I asked Simuy to take the book to Pusang.
+#c 我請Simuy幫忙把書拿給Pusang。
+
+##########
+
+#s pulralrangay ku kikarun.
+#g
+pulralrang-ay=ku	ki-karun
+help-lv=1sg.nom	get-work
+幫忙-處焦=1sg.主格	取得-工作
+#e Please assist me in my work.
+#c 請協助我工作。
+#n 有命令、祈使的意味；
+#n kikarun也指”工作，主動幫人工作”，并不是”被工作”。
+
+##########
+
+#s pulralranganay ku kikarun.
+#g
+pulralrang-anay=ku	ki-karun
+help-rv=1sg.nom	get-work
+幫忙-參焦=1sg.主格	取得-工作
+#e Please assist me in my work.
+#c 請協助我工作。
+
+##########
+
+#s ku pulralrangay kikarun i malri.
+#g
+ku=plralrang-ay	ki-karun	i	malri
+1sg.gen=help-lv	get-work	sg.nom	father
+1sg.屬格=幫忙-處焦	取得-幫忙	單數.主格	爸爸
+#e I assist my father in his work.
+#c 我協助爸爸工作。
+
+##########
+
+#s parengay kaningku kana sinsi i Simuy kapiwari veray datu vavalrayan.
+#g
+pa-rengay	kaningku	kana	sinsi	i	Simuy	ka-piwari	veray	datu
+caus-say	1sg.obl	obl.indf	teacher	sg.nom	pn	ka-late	give	3sg.obl
+使動-說	1sg.斜格	斜格.非限定	老師	單數.主格	人名	ka-晚	給	3sg.斜格
+va-valray-an
+red-book-nmlz
+重叠-書-名物化
+#e Simuy asked me to tell the teacher that she would hand in the assignment a little late.
+#c Simuy請我跟老師説，她要晚一點交作業。
+#n kapiwari要晚一點；
+#n parengay被說，rengay說；
+#n vavalrayan,vavalrayin都是作業；
+#n kaningku也有人講kangku；
+#n datu“她的，她們的”，根據句意分析；
+#n nantu替換datu亦可，原僅可指單一的“她的”，現可通用。natu僅指多人的“她們的”，少用;
+#n 亦有人講dantu。
+
+##########
+
+#s parengay kaningku kana sinsi i Simuy kapiwari veray kantu vavalrayan.
+#g
+pa-rengay	kaningku	kana	sinsi	i	Simuy	ka-piwari	veray	kantu
+caus-say	1sg.obl	obl.indf	teacher	sg.nom	pn	ka-late	give	3sg.obl
+使動-說	1sg.斜格	斜格.非限定	老師	單數.主格	人名	ka-晚	給	3sg.斜格
+va-valray-an
+red-book-nmlz
+重叠-書-名物化
+#e Simuy asked me to tell the teacher that she would hand in the assignment a little late.
+#c Simuy請我跟老師説，她要晚一點交作業。
+
+##########
+
+#s parengay kaningku kana sinsi i Simuy kapiwari veray tu vavalrayan.
+#g
+pa-rengay	kaningku	kana	sinsi	i	Simuy	ka-piwari
+caus-say	1sg.obl	obl.indf	teacher	sg.nom	pn	ka-late
+使動-說	1sg.斜格	斜格.非限定	老師	單數.主格	人名	ka-晚
+veray	tu=va-valray-an
+give	3sg.gen=red-book-nmlz
+給 3sg.屬格=重叠-書-名物化
+#e Simuy asked me to tell the teacher that she would hand in the assignment a little late.
+#c Simuy請我跟老師説，她要晚一點交作業。
+
+##########
+
+#s *parengay kaningku kana sinsi i Simuy kapiwari veray intaw vavalrayan.
+#g
+pa-rengay	kaningku	kana	sinsi	i	Simuy	ka-piwari	veray	intaw
+caus-say	1sg.obl	obl.indf	teacher	sg.nom	pn	ka-late	give	3sg.neu	使動-說	1sg.斜格	斜格.非限定	老師	單數.主格	人名	ka-晚	給	3sg.中性格
+va-valray-an
+red-book-nmlz
+重叠-書-名物化
+#e Simuy asked me to tell the teacher that she would hand in the assignment a little late.
+#c Simuy請我跟老師説，她要晚一點交作業。
+
+##########
+
+#s parengay kaningku kana sinsi i Simuy kapiwari veray tu vavalrayan intaw.
+#g
+pa-rengay	kaningku	kana	sinsi	i	Simuy	ka-piwari
+caus-say	1sg.obl	obl.indf	teacher	sg.nom	pn	ka-late
+使動-說	1sg.斜格	斜格.非限定	老師	單數.主格	人名	ka-晚
+veray	tu=va-valray-an	intaw
+give	3sg.gen=red-book-nmlz	3sg.neu
+給 3sg.屬格=重叠-書-名物化 3sg.中性格
+#e Simuy asked me to tell the teacher that she would hand in the assignment a little late.
+#c Simuy請我跟老師説，她要晚一點交作業。
+#n tu與intaw合用效果類似强調。
+
+##########
+
+#s ku verayay lra paisu intaw.
+#g
+ku=veray-ay=lra	paisu	intaw
+1sg.gen=givelv=pfv	money	3sg.neu	
+1sg.屬格=給處焦=完成	錢	3sg.中性格
+#e I give her/him money.
+#c 我給她/他錢。
+
+##########
+
+#s ulra ku rarengayan.
+#g
+ulra=ku	ra-rengay-an
+exist=1sg.nom	red-say-nmlz
+有=1sg.主格	重叠-說-名物化
+#e I have something to say.
+#c 我有話要説。
+
+##########
+
+#s ulra ku diya rarengayan.
+#g
+ulra=ku	diya	ra-rengay-an
+exist=1sg.nom	still	red-say-nmlz
+有=1sg.主格	還	重叠-說-名物化
+#e I still have something to say.
+#c 我還有話要説。
+#n diya敬語或者“還”。
+
+##########
+
+#s adi ku maranger kikaselruselru kana tawke i koba.
+#g
+adi=ku	ma-anger	ki-ka-selru-selru	kana	tawke	i	koba
+neg=1sg.nom	av-want	pass-ka-red-scold	obl.def	boss	loc	company	
+否定=1sg.主格	主焦-想	被動-ka-重叠-駡	斜格.限定	老闆	處所	公司
+#e I don’t want to be scolded by the boss in the company all the time.
+#c 我不想一直被公司裡的老闆罵。
+#n kikaselruselru“一直被駡”，kaselru“要駡”；
+#n tawke書寫時e上面會有一杠；
+
+##########
+
+#s adi ku sahar maranger kikaselruselru kana tawke i koba.
+#g
+adi=ku	sahar	ma-anger	ki-ka-selru-selru	kana	tawke	i	koba
+neg=1sg.nom	like	av-want	pass-ka-red-scold	obl.def	boss	loc	company	
+否定=1sg.主格	喜歡	主焦-想	被動-ka-重叠-駡	斜格.限定	老闆	處所	公司
+#e I really hate to be scolded by the boss in the company all the time.
+#c 我真的很討厭一直被公司裡的老闆罵。
+
+##########
+
+#s adi ku kasahasahar kikaselruselru kana tawke i koba.
+#g
+adi=ku	ka-saha-sahar	ki-ka-selru-selru	kana	tawke	i	koba
+neg=1sg.nom	irr-red-like	pass-ka-red-scold	obl.def	boss	loc	company
+否定=1sg.主格	非實現-重叠-喜歡	被動-ka-重叠-駡	斜格.限定	老闆	處所	公司
+#e I really hate to be scolded by the boss in the company all the time.
+#c 我真的很討厭一直被公司裡的老闆罵。
+
+##########
+
+#s yawa ku i koba.
+#g
+yawa=ku	i	koba
+going.to=1sg.nom	loc	company
+要去=1sg.主格	處所	公司
+#e I am going to work.
+#c 我要去公司上班了。
+
+##########
+
+#s yawa ku sanpan.
+#g
+yawa=ku	sanpan
+going.to=1sg.nom	work
+要去=1sg.主格	上班
+#e I am going to work.
+#c 我要去上班了。
+
+##########
+
+#s *yawa ku sansanpan.
+#g
+yawa=ku	san-sanpan
+going.to=1sg.nom	red-work
+要去=1sg.主格	重叠-上班
+#e I am going to work.
+#c 我要去上班了。
+
+##########
+
+#s yawa ku kikaruna.
+#g
+yawa=ku	ki-karun-a
+going.to=1sg.nom	get-work-irr
+要去=1sg.主格	取得-上班-非實現
+#e I am going to work.
+#c 我要去上班了。
+#n -a表示時間上的動向。
+
+##########
+
+#s kikarun ku lra harem.
+#g
+ki-karun=ku=lra	harem
+get-work=1sg.nom=pfv	today
+取得-工作=1sg.主格=完成	今天
+#e I have started working.
+#c 我已經在上班了。
+
+##########
+
+#s sanpan u lra?
+#g
+sanpan=u=lra
+worl=2sg.nom=pfv
+上班=2sg.主格=完成
+#e Have you started to work?
+#c 你已經在上班了嗎？
+
+##########
+
+#s adi, a temakakesi ku diya.
+#g
+adi	a	t<em>akakesi=ku	diya
+neg	nom.indf	<av>study=1sg.nom	still
+否定	主格.非限定	<主焦>學=1sg.主格	還
+#e No, I am still a student.
+#c 不，我還是學生。
+
+##########
+
+#s adi, adi ku diya sanpan.
+#g
+adi	adi=ku	diya	sanpan
+neg	neg=1sg.nom	still	work
+否定	否定=1sg.主格	還	上班
+#e No, I have not started to work yet.
+#c 不，我還沒有上班。
+
+##########
+
+#s melri ku a temakakesi.
+#g
+melri=ku	a	t<em>akakesi
+neg=1sg.nom	nom.indf	<av>study
+否定=1sg.主格	主格.非限定	<主焦>學
+#e I am not a student.
+#c 我不是學生。
+
+##########
+
+#s kiumalr kaningku i Lutan a haremay aidan mu uwaruma’ u mekana.
+#g
+ki-umalr	kaningku	i	Lutan	a	haremay	aidan
+get-ask	1sg.obl	sg.nom	pn	real.det	just.now	when
+取得-問	1sg.斜格	單數.主格	人名	實現.冠詞	剛剛	何時
+mu	uwa-ruma’=u	mekan-a
+top	go-home=2sg.nom	eat-irr
+主題	去-房子=2sg.主格	吃飯-非實現
+#e Lutan just asked me: When will you be home for dinner?
+#c Lutan剛剛問我：你何時會回家吃飯？#n -a動向“去”，不可指空間上“來、去”，而是時間序上的概念；
+#n kiumalr“問”，也有人寫kiyumalr，umalr“問”，kiumalran“問題”。
+
+##########
+
+#s kiumalr kaningku i Lutan a haremay aidan mu uwaruma’ u mekan.
+#g
+ki-umalr	kaningku	i	Lutan	a	haremay	aidan
+get-ask	1sg.obl	sg.nom	pn	real.det	just.now	when
+取得-問	1sg.斜格	單數.主格	人名	實現.冠詞	剛剛	何時
+mu	uwa-ruma’=u	mekan-a
+top	go-home=2sg.nom	eat
+主題	去-房子=2sg.主格	吃飯
+#e Lutan just asked me: When will you be home for dinner?
+#c Lutan剛剛問我：你何時會回家吃飯？
+
+##########
+
+#s alra, alamu mekana ta i ruma’.
+#g
+alra	alamu	m-ekan-a=ta	i	ruma’
+let.us	come	av-eat-irr=1pl.nom.incl	loc	house
+讓	來	主焦-吃飯-非實現=1pl.主格.包含式 處所 房子
+#e Come eat together in my home.
+#c 來我家吃飯吧。
+#n alra有吆喝的意思。
+
+##########
+
+#s *kiumalr kaningku i Lutan a haremay aidan u uwaruma’ mekana.
+#g
+ki-umalr	kaningku	i	Lutan	a	haremay	aidan=u	uwa-ruma’
+get-ask	1sg.obl	sg.nom	pn	real.det	just.now	when=2sg.nom	go-home
+取得-問	1sg.斜格	單數.主格	人名	實現.冠詞	剛剛	何時=2sg.主格	去-房子
+m-ekan-a
+av-eat-irr
+主焦-吃-非實現
+#e Lutan just asked me: When will you be home for dinner?
+#c Lutan剛剛問我：你何時會回家吃飯？
+#n uwaruma’和mekana兩個動詞連在一起不太行，中間最好加名詞。
+
+##########
+
+#s kiumalr kaningku i Lutan a haremay aidan u uwaruma’ u mekana.
+#g
+ki-umalr	kaningku	i	Lutan	a	haremay	aidan=u	uwa-ruma’=u
+get-ask	1sg.obl	sg.nom	pn	real.det	just.now	when=2sg.nom	go-home=2sg.nom
+取得-問	1sg.斜格	單數.主格	人名	實現.冠詞	剛剛	何時=2sg.主格	去-房子=2sg.主格
+m-ekan-a
+av-eat-irr
+主焦-吃-非實現
+#e Lutan just asked me: When will you be home for dinner?
+#c Lutan剛剛問我：你何時會回家吃飯？
+#n 兩個動詞前都有u則可以。
+
+##########
+
+#s ?a haremay kiumalr kaningku i Lutan aidan mu uwaruma’ u mekan.
+#g
+a	haremay ki-umalr kaningku i	Lutan aidan mu	uwa-ruma’=u
+real.det	just.now	get-ask	1sg.obl	sg.nom	pn	when	top	go-home=2sg.nom
+實現.冠詞	剛剛	取得-問	1sg.斜格	單數.主格	人名	何時	主題	去-房子=2sg.主格
+m-ekan
+av-eat
+主焦-吃飯
+#e Lutan just asked me: When will you be home for dinner?
+#c Lutan剛剛問我：你何時會回家吃飯？
+#n 少用，屬於中文直譯。
+
+##########
+
+#s kiumalr a haremay kaningku i Lutan aidan mu uwaruma’ u mekan.
+#g
+ki-umalr	a	haremay	kaningku	i	Lutan	aidan	mu	uwa-ruma’=u
+get-ask	real.det	just.now	1sg.obl	sg.nom	pn	when	top	go-home=2sg.nom
+取得.問	實現.冠詞	剛剛	1sg.斜格	單數.主格	人名	何時	主題	去-房子=2sg.主格
+m-ekan
+av-eat
+主焦-吃飯
+#e Lutan just asked me: When will you be home for dinner?
+#c Lutan剛剛問我：你何時會回家吃飯？
+
+##########
+
+#s cemima’ da linggo kani Umang i Pusang vaverayay kani Simuy.
+#g
+c<em>ima’	da	linggo	kani	Umang	i	Pusang	va-veray-ay
+<av>buy	obl.indf	apple	sg.obl	pn	sg.nom	pn	red-give-lv
+<主焦>買	斜格.非限定	蘋果	單數.斜格	人名	單數.主格	人名	重叠-給-處焦
+kani	Simuy
+sg.obl	pn
+單數.斜格	人名
+#e Pusang bought an apple from Umang to send to Simuy.
+#c Pusang向Umang買了蘋果要送給Simuy。
+#n 買了但還沒有送出。
+
+##########
+
+#s cemima’ da linggo kani Umang i Pusang tu verayay kani Simuy.
+#g
+c<em>ima’	da	linggo	kani	Umang	i	Pusang	veray-ay	kani
+<av>buy	obl.indf	apple	sg.obl	pn	sg.nom	pn	give-lv	sg.obl
+<主焦>買	斜格.非限定	蘋果	單數.斜格	人名	單數.主格	人名	給-處焦	單數.斜格
+Simuy
+pn
+人名
+#e Pusang bought an apple from Umang to send to Simuy.
+#c Pusang向Umang買蘋果送給了Simuy。
+#n 買了并且已送出。
+
+##########
+
+#s ’inava tu cima’ na kiday.
+#g
+’inava	tu=cima’	na	kiday
+beautiful	1sg.gen=buy	lnk	sugar.apple
+美麗	1sg.屬格-買	連繫詞	釋迦
+#e The sugar apples sell expensively.
+#c 釋迦的價錢很好。（賣得很貴）
+
+##########
+
+#s cemima’ da linggo kani Umang i Pusang tu vaverayay kani Simuy.
+#g
+c<em>ima’	da	linggo	kani	Umang	i	Pusang
+<av>buy	obl.indf	apple	sg.obl	pn	sg.nom	pn
+<主焦>買	斜格.非限定	蘋果	單數.斜格	人名	單數.主格	人名
+tu=va-veray-ay	kani	Simuy
+1sg.nom=red-give-lv	sg.obl	pn
+1sg.主格=重叠-買-處焦	單數.斜格	人名
+#e Pusang bought an apple from Umang to send to Simuy.
+#c Pusang向Umang買了蘋果要送給Simuy。
+
+##########
+
+#s ?cemima’ ku di i Umang da linggo veray kanintaw.
+#g
+c<em>ima’=ku	di	i	Umang	da	linggo	veray	kanintaw
+<av>buy=1sg.nom	conj	sg.nom	pn	obl.indf	apple	give	3sg.obl
+<主焦>買=1sg.主格	連詞	單數.主格	人名	斜格.非限定	蘋果	給	單數.斜格
+#e Umang and I bought an apple to him.
+#c 我和Umang買了蘋果給他。
+
+##########
+
+#s ?cemima’ ku di i Umang kana linggo veray kanintaw.
+#g
+c<em>ima’=ku	di	i	Umang	kana	linggo	veray	kanintaw
+<av>buy=1sg.nom	conj	sg.nom	pn	obl.def	apple	give	3sg.obl
+<主焦>買=1sg.主格	連詞	單數.主格	人名	斜格.限定	蘋果	給	3sg.斜格
+#e Umang and I bought an apple to him.
+#c 我和Umang買了蘋果給他。
+
+##########
+
+#s salrangan ku kani Umang cemima’ da linggo veray kanintaw.
+#g
+salrangan=ku	kani	Umang	c<em>ima’	da	linggo	veray	kanintaw
+together=1sg.nom	sg.obl	pn	<av>buy	obl.indf	apple	give	3sg.obl
+一起=1sg.主格	單數.斜格	人名	<主焦>買	斜格.非限定	蘋果	給	3sg.斜格
+#e Umang and I bought an apple to him.
+#c 我跟Umang一起買了蘋果給他。
+
+##########
+
+#s salrangan ku kani Umang cemima’ da linggo veray kantaw.
+#g
+salrangan=ku	kani	Umang	c<em>ima’	da	linggo	veray	kantaw
+together=1sg.nom	sg.obl	pn	<av>buy	obl.indf	apple	give	3sg.obl
+一起=1sg.主格	單數.斜格	人名	<主焦>買	斜格.非限定	蘋果	給	3sg.斜格
+#e Umang and I bought an apple to him.
+#c 我跟Umang一起買了蘋果給他。
+
+##########
+
+#s *salrangan ku kani Umang cemima’ da linggo veray intaw.
+#g
+salrangan=ku	kani	Umang	c<em>ima’	da	linggo	veray	intaw
+together=1sg.nom	sg.obl	pn	<av>buy	obl.indf	apple	give	3sg.neu
+一起=1sg.主格	單數.斜格	人名	<主焦>買	斜格.非限定	蘋果	給	3sg.中性格
+#e Umang and I bought an apple to him.
+#c 我跟Umang一起買了蘋果給他。
+#n 不可以用intaw。
+
+##########
+
+#s ?salrangan ku di i Umang cemima’ da linggo veray kanintaw.
+#g
+salrangan=ku	di	i	Umang	c<em>ima’	da	linggo	veray
+together=1sg.nom	conj	sg.nom	pn	<av>buy	obl.indf	apple	give
+一起=1sg.主格	連詞	單數.主格	人名	<主焦>買	斜格.非限定	蘋果	給
+kanintaw
+3sg.obl
+3sg.斜格
+#e Umang and I bought an apple to him.
+#c 我跟Umang一起買了蘋果給他。
+
+##########
+
+#s ?salrangan ku di kani Umang cemima’ da linggo veray kanintaw.
+#g
+salrangan=ku	di	kani	Umang	c<em>ima’	da	linggo	veray
+together=1sg.nom	conj	sg.obl	pn	<av>buy	obl.indf	apple	give
+一起=1sg.主格	連詞	單數.斜格	人名	<主焦>買	斜格.非限定	蘋果	給
+kanintaw
+3sg.obl
+3sg.斜格
+#e Umang and I bought an apple to him.
+#c 我跟Umang一起買了蘋果給他。
+#n 打問號的句子都不太喜歡。
+
+##########
+
+#s puicas kantu lima i Simuy, adi kilrivak cemepuk kana pedped.
+#g
+p-u-icas	kantu	lima	i	Simuy	adi	kilrivak	c<em>epuk	kana
+caus-go-above	3sg.obl	hand	sg.nom	pn	neg	be.careful	<av>beat	obl.def
+使動-去-上面	3sg.斜格	手	單數.主格	人名	否定	小心	<主焦>打	斜格.限定
+ped-ped
+red-mosquito
+<重叠>-蚊子
+#e Simuy waved her hand and accidentally hit the mosquito.
+#c Simuy手一揮，不小心打到蚊子。
+#n kilivak“小心”,adi kilivak“不小心”，taranapaw也可以指小心；
+#n puicas指把手向上抬；
+#n pedped重叠，但分開無意義。
+
+##########
+
+#s puicas kantu lima i Simuy, adi kilrivak cemepuk kana tu.
+#g
+p-u-icas	kantu	lima	i	Simuy	adi	kilrivak	c<em>epuk	kana
+caus-go-above	3sg.obl	hand	sg.nom	pn	neg	be.careful	<av>beat	obl.def
+使動-去-上面	3sg.斜格	手	單數.主格	人名	否定	小心	<主焦>打	斜格.限定
+tu
+table
+桌子
+#e Simuy waved her hand and accidentally hit the table.
+#c Simuy手一揮，不小心打到桌子。
+
+##########
+
+#s nu magunin mu taranapaw ta!
+#g
+nu	ma-gunin	mu	tara-napaw=ta
+irr.ptcl	<av>-earthquake	top	take-be.careful=1pl.incl	
+非實現.虛詞	<主焦>-地震	主題	使用-小心=1pl.包含式
+#e We should be careful during the earthquake!
+#c 地震的時候大家要小心！
+#n gunin“地震”，magunin動詞“地震”，hinghing“搖動，龍眼”，mahinghing“把它搖動，地震”；
+#n napaw“小心”。
+
+##########
+
+#s nu magunin mu kilrivak ta!
+#g
+nu	ma-gunin	mu	kilrivak=ta
+irr.ptcl	<av>-earthquake	top	be.careful=1pl.incl	
+非實現.虛詞	<主焦>-地震	主題	小心=1pl.包含式
+#e We should be careful during the earthquake!
+#c 地震的時候大家要小心！
+
+##########
+
+#s ku hinghingaw intaw.
+#g
+ku=hing-hing-aw	intaw
+1sg.gen=red-shake-pv	3sg.neu
+1sg.屬格=重叠-搖-受焦	3sg.中性格
+#e I shaked her/him.
+#c 我搖她/他。
+
+##########
+
+#s malayas pakilev penukpuk kanidu na lataw i Lutan aymu adi muraranak idu na lataw.
+#g
+malayas	pakilev	p<en>uk-puk	kanidu	na	lataw	i	Lutan
+often	fierce	<av>red-beat	obl.prox.that	lnk	window	sg.nom	pn	常常	猛烈	<主焦>重叠-打	斜格.近端.那	連繫詞	窗戶	單數.主格	人名
+aymu	adi	mu–ra-ranak	idu	na	lataw
+but	neg	antip-red-break.down	nom.prox.that	lnk	window	但是	否定	反被動-重叠-壞掉	主格.近端.那	連繫詞	窗戶
+#e Lutan used to slap the window hard, but it never broke 
+#c Lutan常常用力拍打那扇窗戶，但那扇窗戶不曾破掉。
+#n penukpuk”拍打“，puk”打（利用工具）“，tenged”打（一般接受者是人）”，tengeday處所焦點；
+#n lataw“窗戶”，latak“楊桃”；
+#n ranak“壞掉”，pisa’“破掉”。
+
+##########
+
+#s tu tengeday lra i Lutan?
+#g
+tu=tenged-ay=lra	i	Lutan
+3sg.gen=beat-lv=pfv	sg.nom	pn
+3sg.屬格=打-處焦=完成	單數.主格	人名
+#e Did s/he hit Lutan?
+#c 她/他打Lutan了嗎？
+
+##########
+
+#s maranger temenged kani Lutan.
+#g
+ma-anger	t<em>enged	kani	Lutan
+av-want	<av>beat	sg.obl	pn
+主焦-想	<主焦>打	單數.斜格	人名
+#e S/he wants to beat Lutan.
+#c 她/他想打Lutan。
+
+##########
+
+#s na adi imaran diya na kulakulang mu ku puwanay kantu kaysing i Lutan.
+#g
+na	adi	imaran	diya	na	kulakulang	mu	ku=puwa-anay	kantu
+nom.def	neg	delicious	all	lnk	vegetable	top	1sg.gen=put-rv	3sg.obl
+主格.限定	否定	好吃	全部	連繫詞	蔬菜	主題	1sg.主格=放-參焦	3sg.屬格
+kaysing	i	Lutan
+bowl	sg.nom	pn
+碗	單數.主格 人名
+#e I put all the undelicious vegetables in Lutan’s bowl.
+#c 我把所有難吃的蔬菜都放到Lutan碗裡。
+#n kulakulang“蔬菜”，siyaw“菜餚（包括湯類）”；
+#n adi imaran“不好吃”，imaran“好吃”；
+#n puwaanay“放置在”，puwa“放”；
+#n diya“所有的”。
+
+##########
+
+#s tu vususaw i tainataw i Simuy mukuwa lra cemima’ da tiwangan.
+#g
+tu=vusus-aw	i	tainataw	i	Simuy	m-ukuwa=lra	c<em>ima’	da
+3sg.gen=lie-pv	sg.nom	mother	sg	pn	av-go=pfv	<av>buy	obl.indf
+3sg.屬格=騙-受焦	單數.主格	媽媽	單數	人名	主焦-去=完成	<主焦>買	斜格.非限定
+tiwangan
+pork
+豬肉
+#e Simuy lied to her mother that she had gone to buy meat.
+#c Simuy騙媽媽説她去買肉了。
+#n tiwngan na lriyung“生豬肉”，tiungan na vuyu“鷄肉”，na hung“牛”； #n vusus“騙”。
+
+##########
+
+#s ulra ku diya a ngai.
+#g
+ulra=ku	diya	a	ngai
+exist=1sg.gen	still	nom.indf	words
+有=1sg.屬格	還	主格.非限定	話
+#e I still have some words to say.
+#c 我還有話要説。
+
+##########
+
+#s ku pulralrangay i malri kikarun.
+#g
+ku=plralrang-ay	i	malri	ki-karun
+1sg.gen=help-lv	sg.nom	father	get-work
+1sg.屬格=幫忙-處焦	單數.主格	爸爸	取得-幫忙
+#e I assist my father in his work.
+#c 我協助爸爸工作。
+
+##########
+
+#s ku puwanay na adi imaran diya na kulakulang kantu kaysing i Lutan.
+#g
+ku=puwa-anay	na	adi	imaran	diya	na	kulakulang	kantu	kaysing
+1sg.gen=put-rv	nom.def	neg	delicious	all	lnk	vegetable	3sg.obl	bowl	1sg.屬格=放-參焦	主格.限定	否定	好吃	全部	連繫詞	蔬菜	3sg.斜格	碗
+i	Lutan
+sg	pn
+單數	人名
+#e I put all the undelicious vegetables in Lutan’s bowl.
+#c 我把所有難吃的蔬菜都放到Lutan碗裡。
+
+##########
+
+#s puicas kantu lima i Simuy, adi adi kilrivak cemepuk kana tu.
+#g
+p-u-icas	kantu	lima	i	Simuy	adi	adi	kilrivak	c<em>epuk
+caus-go-above	3sg.obl	hand	sg.nom	pn	neg	neg	be.careful	<av>beat
+使動-去-上面	3sg.斜格	手	單數.主格	人名	否定	否定	小心	<主焦>打
+kana	tu
+obl.def	table
+斜格.限定	桌子
+#e Simuy waved his hand and did not accidentally hit the table.
+#c Simuy手一揮，沒有不小心打到桌子。
+#n kaadiadi“無論如何，一定”，kana adi“無論如何，一定”。
+
+##########
+
+#s kaadiadi muruma’ nu ’emanan.
+#g
+kaadiadi	m-u-ruma’	nu	’emanan
+certainly	av-go-home	irr.ptcl	tomorrow	
+一定	主焦-去-房子	非實現.虛詞	明天
+#e Please be sure to come home tomorrow.
+#c 明天請一定要回家。
+#n 不確定是否能拆分為ka-adi-adi。
+
+##########
+
+#s kaadiadi muruma’ nu ’emanan, maw.
+#g
+kaadiadi	m-u-ruma’	nu	’emanan	maw
+certainly	av-go-home	irr.ptcl	tomorrow	mod.ptcl
+一定	主焦-去-房子	非實現.虛詞	明天	語氣.虛詞
+#e Please be sure to come home tomorrow.
+#c 明天請一定要回家，知道了嗎。
+#n mod表Modal
+
+##########
+
+#s puwani ini na vuyu, puwa kana deruwan deruyu palru kana maderu.
+#g
+puwa-i	ini	na	vuyu	puwa	kana	deru-an	deru-u	palru	kana
+put-imp	nom.this	lnk	chicken	put	obl.def	cook-nmlz	cook-imp	to	obl.def
+放-祈使	主格.這	連繫詞	雞	放	斜格.限定	煮-名物化	煮-祈使	去	斜格.限定
+ma-deru
+av-cook
+主焦-煮
+#e Put this chicken into the pot and cook it thoroughly.
+#c 把這隻雞丟到鍋子裡煮熟。
+#n maderu“煮，飯”，deruwan“鍋子”，deru字根“煮”，deruyu“去煮（命令）”；
+#n -u表imp，參考見語法概論p19。
+
+##########
+
+#s puwani ini na vuyu kana deruwan.
+#g
+puwa-i	ini	na	vuyu	kana	deru-an
+put-imp	nom.this	lnk	chicken	obl.def	cook-nmlz
+放-祈使	這	連繫詞	鷄	斜格.限定	煮-名物化
+#e Put this chicken into the pot.
+#c 把這隻雞丟到鍋子裡。
+
+##########
+
+#s mekan u lra?
+#g
+m-ekan=u=lra
+av-eat=2sg.nom=pfv
+主焦-吃=2sg.主格=完成
+#e Have you eaten yet?
+#c 你吃飯了嗎？
+
+##########
+
+#s mekan ku lra.
+#g
+m-ekan=ku=lra
+av-eat=1sg.nom=pfv
+主焦-吃-1sg.主格=完成
+#e Yes, I have eaten something.
+#c 我吃過了。
+
+##########
+
+#s mekan u lra eman?
+#g
+m-ekan=u=lra	eman
+av-eat=2sg.nom=pfv	what
+主焦-吃=2sg.主格=完成	什麽
+#e What did you eat?
+#c 你吃了什麽？
+
+##########
+
+#s mekan ku lra (a/na) maderu.
+#g
+m-ekan=ku=lra	(a/na)	ma-deru
+av-eat=1sg.nom=pfv	(obl.indf/obl.def)	av-cook
+主焦-吃=1sg.主格=完成	(斜格.非限定/斜格.限定) 主焦-煮
+#e I ate some rice.
+#c 我吃了一些飯。
+
+##########
+
+#s mekan ku lra siniyan na maderu.
+#g
+m-ekan=ku=lra	s<in>iyan	na	ma-deru
+av-eat=1sg.nom=pfv	<pfv>fry	lnk	av-cook
+主焦-吃=1sg.主格=完成	<完成>炒	連繫詞	主焦-煮
+#e I ate some fried rice.
+#c 我吃了一些炒飯。
+#n siyan“炒”，siniyan“炒過的”，siniyanan”所炒的”,sininayanan“所炒的（重叠表强調，自己炒的）”，sininayan“所炒的”。
+
+##########
+
+#s mekan u lra (a/na) kiday?
+#g
+m-ekan=u=lra	(a/na)	kiday
+av-eat=2sg.nom=pfv	(obl.indf/obl.def)	sugar.apple
+主焦-吃=2sg.主格=完成	(斜格.非限定/斜格.限定) 釋迦
+#e Have you eat the sugar apples?
+#c 你吃釋迦了嗎？
+
+##########
+
+#s nanku siniyanan na maderun.
+#g
+nanku	s<in>iyan-an	na	ma-derun	
+1sg.nom	<pfv>fry-nmlz	lnk	av-cook
+1sg.主格	<完成>炒-名物化	連繫詞	主焦-煮
+#e This fried rice is cooked by me.
+#c 這是我炒的飯。
+#n siniyanan指的一定是自己炒的。
+
+##########
+
+#s nanku cinima’an na maderu.
+#g
+nanku	c<in>ima’-an	na	ma-deru
+1sg.nom	<pfv>buy-nmlz	lnk	av-cook
+1sg.主格	<完成>買-名物化	連繫詞	主焦-煮
+#e This is the rice I bought.
+#c 這個飯是我買的。
+
+##########
+
+#s nanku maderu ini.
+#g
+nanku	ma-deru	ini
+1sg.nom	av-cook	this
+1sg.主格	主焦-煮	這
+#e This is my rice.
+#c 這是我的飯。
+
+##########
+
+#s ini mu, nanku siniyanan na maderu.
+#g
+ini	mu	nanku	s<in>iyan-an	na	ma-deru
+nom.this	top	1sg.nom	<pfv>fry-nmlz	lnk	av-cook
+主格.這	主題	1sg.主格	<完成>炒-名物化	連繫詞	主焦-煮
+#e This is the rice I cooked.
+#c 這是我炒的飯。
+#n 動詞用siniyanan/sininayan/sininayanan皆可。
+
+##########
+
+#s nanku siniyan na maderu.
+#g
+nanku	s<in>iyan	na	ma-deru
+1sg.nom	<pfv>fry	lnk	av-cook
+1sg.主格	<完成>炒	連繫詞	主焦-煮
+
+##########
+
+#s sahar ku mekan na siniyan na maderu.
+#g
+sahar=ku	m-ekan	na	s<in>iyan	na	ma-deru
+like=1sg.nom	av-eat	obl.def	<pfv>fry	lnk	av-cook
+喜歡=1sg.主格	主焦-吃	斜格.限定	<完成>炒	連繫詞	主焦-煮
+#e I like eating fried rice.
+#c 我喜歡吃炒飯。
+
+##########
+
+#s puwani ini na vuyu, puwa kana deruwan deruyu palru kana maderu vuyu.
+#g
+puwa-i	ini	na	vuyu	puwa	kana	deru-an	deru-u	palru	kana
+put-imp	nom.this	lnk	chicken	put	obl.def	cook-nmlz	cook-imp	to	obl.def
+放-祈使	主格.這	連繫詞	鷄	放	斜格.限定	煮-名物化	煮-祈使	去	斜格.限定
+ma-deru	vuyu
+av-cook	chicken
+主焦-煮	鷄
+#e Put this chicken into the pot and cook it thoroughly.
+#c 把這隻雞丟到鍋子裡煮熟。
+
+##########
+
+#s *puwani ini na vuyu, puwa kana deruwan deruyu palru kana vuyu maderu.
+#g
+puwa-i	ini	na	vuyu	puwa	kana	deru-an	deru-u	palru	kana
+put-imp	nom.this	lnk	chicken	put	obl.def	cook-nmlz	cook-imp	to	obl.def
+放-祈使	主格.這	連繫詞	鷄	放	斜格.限定	煮-名物化	煮-祈使	去	斜格.限定
+vuyu	ma-deru
+av-cook	chicken
+主焦-煮	鷄
+#e Put this chicken into the pot and cook it thoroughly.
+#c 把這隻雞丟到鍋子裡煮熟。
+
+##########
+
+#s temiya’ (a) adaman i Lutan mutuharang lra (tu tiya’ intaw).
+#g
+t<em>iya’	(a)	adaman	i	Lutan mutu-harang=lra	(tu=tiya’
+<av>dream	(real.det) yesterday sg.nom	pn	become-crab=pfv (3sg.gen=dream
+<主焦>做夢	(實現.冠詞)	昨天	單數.主格 人名	變成-螃蟹=完成	(3sg.屬格=做夢
+intaw)
+3sg.neu)
+3sg.中性格)
+#e In his dream last night, Lutan became a crab. 
+#c Lutan昨天做了一個夢，夢到他變成一隻螃蟹。
+#n tu tiya’ intaw也可省，此句不會產生指涉上的問題；
+#n mutu“變成，成為”，mutusinsi“成為老師”。
+
+##########
+
+#s *mutuharang lra mu, temiya’ (a) adaman i Lutan.
+#g
+mutu-harang=lra	mu	t<em>iya’	(a)	adaman	i	Lutan
+become-crab=pfv	top	<av>dream	(real.det)	yesterday	sg.nom	pn
+變成-螃蟹=完成	主題	<主焦>做夢	(實現.冠詞)	昨天	單數.主格 人名
+#e In his dream last night, Lutan became a crab.
+#c Lutan昨天做了一個夢，夢到他變成一隻螃蟹。
+
+##########
+
+#s tu tiya’ a adaman i Lutan mu, mutuharang lra.
+#g
+tu=tiya’	a	adaman	i	Lutan	mu	mutu-harang=lra
+3sg.gen=dream	real.det	yesterday	sg.nom	pn	top	become-crab=pfv
+3sg.屬格=做夢	實現.冠詞	昨天	單數.主格	人名	主題	變成-螃蟹=完成
+#e In his dream last night, Lutan became a crab.
+#c Lutan昨天做了一個夢，夢到他變成一隻螃蟹。
+
+##########
+
+#s tu tiya’ i Lutan a adaman mu, mutuharang lra.
+#g
+tu=tiya’	i	Lutan	a	adaman	mu	mutu-harang=lra
+3sg.gen=dream	sg.nom	pn	real.det	yesterday	top	become-crab=pfv
+3sg.屬格=做夢	單數.主格	人名	實現.冠詞	昨天	主題	變成-螃蟹=完成
+#e In his dream last night, Lutan became a crab.
+#c Lutan昨天做了一個夢，夢到他變成一隻螃蟹。
+
+##########
+
+#s ?temiya’ a adaman mutuharang lra i Lutan.
+#g
+t<em>iya’	a	adaman	mutu-harang=lra	i	Lutan
+<av>dream	real.det	yesterday	become.crab=pfv	sg.nom	pn
+<主焦>做夢	實現.冠詞	昨天	變成-螃蟹=完成	單數.主格	人名
+#e In the dream last night, Lutan became a crab. 
+#c 在昨天的夢中，Lutan變成了一隻螃蟹。 #n 少講，原因在於前半句不知道做夢者是誰。
+
+##########
+
+#s paated lra kanidu na valray i Lutan palru i Dipung veray kani Pusang.
+#g
+pa-ated=lra	kanidu	na	valray	i	Lutan	palru	i	Dipung
+caus-send=pfv	obl.prox.that	lnk	book	sg.nom	pn	to	loc	Japan
+使動-寄=完成	veray	kani	give	sg.obl
+斜格.近距.那	連繫詞	書	單數.主格	人名	去	處所	日本	Pusang
+pn
+給	單數.斜格 人名
+#e Lutan sent that book to Japan to Pusang.
+#c Lutan寄了那本書到日本給Pusang。
+
+##########
+
+#s paated lra kanidu na valray palru i Dipung veray kani Pusang i Lutan.
+#g
+pa-ated=lra	kanidu	na	valray	palru	i	Dipung	veray	kani
+caus-sendpfv	obl.prox.that	lnk	book	to	loc	Japan	give	sg.obl
+使動-寄=完成	斜格.近距.那	連繫詞	書	去	處所	日本	給	單數.斜格
+Pusang	i	Lutan
+pn	sg.nom	pn
+人名	單數.主格	人名
+#e Lutan sent that book to Japan to Pusang.
+#c Lutan寄了那本書到日本給Pusang。
+
+##########
+
+#s tu patedanay idu na valray palru i Dipung veray kani Pusang i Lutan.
+#g
+tu=pa-ated-anay	idu	na	valray	palru	i	Dipung	veray
+3sg.gen=caus-send-rv	nom.prox.that	lnk	book	to	loc	Japan	give
+3sg.屬格=使動-寄-參焦	主格.近距.那	連繫詞	書	去	處所	日本	給
+kani	Pusang	i	Lutan
+sg.obl	pn	sg	pn
+單數.斜格	人名	單數	人名
+#e Lutan sent that book to Japan to Pusang.
+#c Lutan寄了那本書到日本給Pusang。
+
+##########
+
+#s *tu patedanay idu na valray palru i Dipung veray i Pusang i Lutan.
+#g
+tu=pa-ated-anay	idu	na	valray	palru	i	Dipung	veray
+3sg.gen=caus-send-rv	nom.prox.that	lnk	book	to	loc	Japan	give
+3sg.屬格=使動-寄-參焦	主格.近距.那	連繫詞	書	去	處所	日本	給
+i	Pusang	i	Lutan
+sg	pn	sg	pn
+單數	人名	單數	人名
+#e Lutan sent that book to Japan to Pusang.
+#c Lutan寄了那本書到日本給Pusang。
+#n i標記的是主事者，此句中不能同時出現兩個。
+
+##########
+
+#s tu patedanay idu na valray i Lutan palru i Dipung veray kani Pusang.
+#g
+tu=pa-ated-anay	idu	na	valray	i	Lutan	palru	i	Dipung
+3sg.gen=caus-send-rv	nom.prox.that	lnk	book	sg	pn	to	loc	Japan
+3sg.屬格=使動-寄-參焦	主格.近距.那	連繫詞	書	單數	人名	去	處所	日本
+veray	kani	Pusang
+give	sg.obl	pn
+給	單數.斜格	人名
+#e Lutan sent that book to Japan to Pusang.
+#c Lutan寄了那本書到日本給Pusang。
+
+##########
+
+#s tu pateday idu na valray palru i Dipung i Lutan veray kani Pusang.
+#g
+tu=pa-ated-ay	idu	na	valray	palru	i	Dipung	i	Lutan
+3sg.gen=caus-send-lv	nom.prox.that	lnk	book	to	loc	Japan	sg	pn
+3sg.屬格=使動-寄-處焦	主格.近距.那	連繫詞	書	去	處所	日本	單數	人名
+veray	kani	Pusang
+give	sg.obl	pn
+給	單數.斜格 人名
+#e Lutan sent that book to Japan to Pusang.
+#c Lutan寄了那本書到日本給Pusang。
+
+##########
+
+#s tu pateday i Dipung idu na valray veray kani Pusang i Lutan.
+#g
+tu=pated-ay	i Dipung	idu	na	valray	veray	kani
+3sg.gen=caus-send-lv	loc	Japan	nom.prox.that	lnk	book	give	sg.obl
+3sg.屬格=使動-寄-處焦	處所	日本	主格.近距.那	連繫詞	書	給	單數.斜格
+Pusang	i	Lutan
+pn	sg	pn
+人名	單數	人名
+#e Lutan sent that book to Japan to Pusang.
+#c Lutan寄了那本書到日本給Pusang。
+
+##########
+
+#s ipated lra idu na valray i Dipung.
+#g
+i-pa-ated=lra	idu	na	valray	i	Dipung
+pass-caus-send-pfv	nom.prox.that	lnk	book	loc	Japan
+被動-使動-寄-完成	主格.近距.那	連繫詞	書	處所	日本
+#e The book was sent to Japan.
+#c 那本書被寄到日本了。
+#n ipated中的i似乎表示的是完成而非pass。
+
+##########
+
+#s ?kipated lra idu na valray i Dipung.
+#g
+ki-pa-ated=lra	idu	na	valray	i	Dipung
+pass-caus--send-pfv	nom.prox.that	lnk	book	loc	Japan
+被動-使動-寄-完成	主格.近距.那	連繫詞	書	處所	日本
+#e The book was sent to Japan.
+#c 那本書被寄到日本了。
+#n ki-似乎僅用於人，認為kipated不常用於指物（出現寄東西的人也不行，重點在於ki-不用在物體上）。
+
+##########
+
+#s pauwa i Valraka temakesiya i Lutan.
+#g
+pa-uwa	i	Valraka	t<em>akesi-a	i	Lutan
+caus-go	loc	America	<av>study-irr	sg.nom	pn	
+動-去	處所	美國	<主焦>學-非實現	單數.主格	人名
+#e Let Lutan go to America to study.
+#c 讓Lutan去美國讀書。
+#n Valraka“歐美人”，Valravalraka“歐美地區”；
+#n temakesia“去讀書”，要加動態比較好，故temakesi不太好。
+
+##########
+
+#s pauwa i Valraka temakesiya kani Lutan i malri.
+#g
+pa-uwa	i	Valraka	t<em>akesi-a	kani	Lutan	i	malri
+caus-go	loc	America	<av>study-irr	sg.obl	pn	sg.nom	father
+使動-去	處所	美國	<主焦>學-非實現	單數.斜格	人名	單數.主格	爸爸
+#e Lutan’s father let him to America to study.
+#c Lutan爸爸把他送去美國讀書。
+
+##########
+
+#s ini na takakesiyan mu, tatenatena’ adi ku kasayhuwan kaninu.
+#g
+ini	na	ta<ka>kesi-an	mu	ta-tena-tena’	adi=ku
+nom.this	lnk	<irr>study-nmlz	top	red-red-indeed	neg=1sg.nom
+主格.這	連繫詞	<非實現>學-名物化	主題	重叠-重叠-確實	否定=1sg.主格
+ka-sayhu-an	kaninu
+irr-be.able.to-nmlz	2sg.obl
+非實現-會-名物化	2sg.斜格
+#e I’m not as good at studying as you are.
+#c 讀書這件事確實我沒有你厲害。
+#n kasayhuwan“會”；
+#n tena’“確實”，tatenatena’“（强調）真的”；
+#n tatena’,tatenatena’兩者在本句可替換。
+
+##########
+
+#s ini na takakesiyan mu, tatenatena’ maramelri (ku) kaninu.
+#g
+ini	na	ta<ka>kesi-an	mu	ta-tena-tena’	mara-melri(=ku)
+nom.this	lnk	<irr>study-nmlz	top	red-red-indeed	compa-neg(=1sg.nom)
+主格.這	連繫詞	<非實現>學-名物化	主題	重叠-重叠-確實	比較-否定(=1sg.主格)
+kaninu
+2sg.obl
+2sg.斜格
+#e I’m not as good at studying as you are.
+#c 讀書這件事確實我沒有你厲害。
+
+##########
+
+#s ini na takakesiyan mu, (tatenatena’) marasayhusayhu ku kaninu.
+#g
+ini	na	ta<ka>kesi-an	mu	(ta-tena-tena’)
+nom.this	lnk	<irr>study-nmlz	top	(red-red-indeed)
+主格.這	連繫詞	<非實現>學-名物化	主題	(重叠-重叠-確實)
+mara-sayhu-sayhu=ku	kaninu
+compa-red-be.able.to=1sg.nom	2sg.obl
+比較-重叠-會=1sg.主格	2sg.斜格
+#e I am really good at studying as you are.
+#c 讀書這件事確實我比你厲害。
+#n marasayhu亦可，為比較級。
+
+##########
+
+#s ini na takakesiyan mu, (tatenatena’) marasayhusayhu ku.
+#g
+ini	na	ta<ka>kesi-an	mu	(ta-tena-tena’)
+nom.this	lnk	<irr>study-nmlz	top	(red-red-indeed)
+主格.這	連繫詞	<非實現>學-名物化	主題	(重叠-重叠-確實)
+mara-sayhu-sayhu=ku
+compa-red-be.able.to=1sg.nom
+比較-重叠-會=1sg.主格
+#e I am the best at studying.
+#c 讀書這件事我最厲害。
+
+##########
+
+#s kipuicas (da dusiya) i Pusang kani Lutan mukuwa i henan pa’alrupa.
+#g
+ki-p-u-icas	(da	dusiya) i	Pusang kani	Lutan m-ukuwa
+pass-caus-go-above	(obl.indf	car)	sg.nom pn	sg.obl pn	av-go
+被動-使動-去-上面	(斜格.非限定 車子) 單數.主格 人名	單數.斜格 人名	主焦-去
+i	henanpa-’alrup-a
+loc	mountain	caus-hunting.field-irr
+處所	山	使動-獵區-非實現
+#e Lutan drove Pusang up the mountain to hunt.
+#c Lutan開車載Pusang上山打獵。
+#n kipuicas“被載”；
+#n pa’alrupa“去打獵”，’alrup“獵區”；
+#n dusiya“車子”，zidingsiya“脚踏車”。
+
+##########
+
+#s kipuicas kani Lutan i Pusang mukuwa i henan pa’alrupa.
+#g
+ki-p-u-icas	kani	Lutan	i	Pusang	m-ukuwa	i
+pass-caus-go-above	sg.obl	pn	sg.nom	pn	av-go	loc
+被動-使動-去-上面	單數.斜格	人名	單數.主格	人名	主焦-去	處所
+henan	pa-’aplrup-a
+mountain	caus-hunting.field-irr
+山	使動-獵區-非實現
+#e Lutan drove Pusang up the mountain to hunt.
+#c Lutan開車載Pusang上山打獵。
+
+##########
+
+#s puicas kani Lutan i Pusang mukuwa i henan pa’alrupa.
+#g
+p-u-icas	kani	Lutan	i	Pusang	m-ukuwa	i
+caus-go-above	sg.obl	pn	sg.nom	pn	av-go	loc
+使動-去-上面	單數.斜格	人名	單數.主格	人名	主焦-去	處所
+henan	pa-’alrup-a
+mountain	caus-hunting.field-irr
+山	使動-獵區-非實現
+#e Pusang drove Lutan up the mountain to hunt.
+#c Lutan搭著Pusang的車去山上打獵。
+#n 開車的是Pusang。
+
+##########
+
+#s ?kipuicas i Pusang kani Lutan i henan mukuwa pa’alrupa.
+#g
+ki-p-u-icas	i	Pusang	kani	Lutan	i
+pass-caus-go-above	sg.nom	pn	sg.obl	pn	loc
+被動-使動-去-上面	單數.主格	人名	單數.斜格	人名	處所
+henan	m-ukuwa	pa-’alrup-a
+mountain	av-go	caus-hunting.field-irr
+山	主焦-去	使動-獵區-非實現
+#e Lutan drove Pusang up the mountain to hunt.
+#c Lutan開車載Pusang上山打獵。
+#n 怪怪的。
+
+##########
+
+#s lemavat mi lra kana nguwayan na dekalr mu ’aremeng lra (na wari).
+#g
+l<em>avat=mi=lra	kana	nguwayan	na	dekalr	mu	’aremeng=lra
+<av>pass.by=1pl.nom.incl=pfv	obl.def	ahead	lnk	village	top	get.dark=pfv
+<主焦>經過=1pl.主格.排除式=完成	斜格.限定	前面	連繫詞	村子	主題	變黑=完成
+(na	wari)
+(lnk	day)
+(連繫詞 天)
+#e It got dark after we passed the last village.
+#c 我們經過上一個村莊之後就天黑了。
+#n ’aremeng lra“天黑了”，已經完全入夜；
+#n nguwayan“前面”，也有人講nganguwayan。
+
+##########
+
+#s lemavat mi lra kana nguwayan na dekalr mu ’araremeng lra (na wari).
+#g
+l<em>avat=mi=lra	kana	nguwayan	na	dekalr	mu	’a<ra>remeng=
+<av>pass.by=1pl.nom.incl=pfv	obl.def	ahead	lnk	village	top	<red>get.dark
+<主焦>經過=1pl.主格.排除式=完成	斜格.限定	前面	連繫詞	村子	主題	<重叠>變黑=完
+(na	wari)
+(lnk	day)
+(連繫詞 天)
+#e It got dark after we passed the last village.
+#c 我們經過上一個村莊之後就快天黑了。
+#n ’araremeng lra“就要天黑了”，還未徹底入夜。
+
+##########
+
+#s nu pananadam kaningku na ngai na Pinuyumayan na sinsi mu, paaated da eman diya kantu anay i Simuy.
+#g
+nu	pa-na-nadam	kaningku	na	ngai	na	P<in>uyuma-an
+irr.ptcl	caus-red-teach	1sg.obl	nom.def	words	lnk	<pfv>Puyuma-nmlz	非實現.虛詞	使動-重叠-教	1sg.斜格	主格.限定	話	連繫詞	<完成>卑南-名物化
+na	sinsi	mu	pa-a-ated	da	eman	diya	kantu	anay
+sg.gen	teacher	top	caus-irr-send	obl.indf	what	hon	3sg.obl	firend
+單數.屬格	老師	主題	使動-非實現-寄	斜格.非限定	什麽	敬語	3sg.斜格	朋友
+Simuy
+sg.nom	pn
+單數.主格	人名
+#e While the teacher was teaching me Puyuma, Simuy was sending a parcel to her friend. 
+#c 當老師在教我卑南語的時候，Simuy正在寄包裹給她的朋友。
+#n nadam“教”，pananadam“被教”。
+
+##########
+
+#s wa! ku salaway lra nanku ngangarayan, alruwa ku mulusu i nguwayan na ngangarayan mu penawuwa lra.
+#g
+wa	ku=salaw-ay=lra	nanku	nga-ngara-an	aruwa=ku	mu-lusu	mod.ptcl	1sg.gen=go.ahead-lv=pfv	nom	red-wait-nmlz	may=1sg.nom	av-down
+語氣.虛詞	1sg.屬格=超越-處所=完成	主格	重叠-等待-名物化	可以=1sg.主格	主焦-下面
+i	nguwayan	na	nga-ngara-an	mu	p<en>awuwa=lra
+loc	ahead	lnk	red-wait-nmlz	top	<av>correct=pfv
+處所	前面	連繫詞	重叠-等待-名物化	主題	<主焦>正確=完成
+#e Oh! I missed my stop. I should have gotten off at the last stop.
+#c 完蛋了！我坐過站了，應該在上一站下車。
+#n aruwa“大約”，maruwa“可以，應該”，karuwa“可以”；
+#n pawuwa“正確”，penawuwa“才是對的”；
+#n salaway“超越”。
+
+##########
+
+#s salaway ku lra.
+#g
+salaw-ay=ku=lra
+go.ahead-lv=1sg.nom=pfv
+超越-處焦=1sg.nom=完成
+#e Someone got ahead of me.
+#c 有人超越我了。
+
+##########
+
+#s karuwa ku muicas da dusiya nu haremay.
+#g
+karuwa=ku	m-u-icasda	kisiya	nu	haremay
+may=1sg.nom	av-go-above	obl.indf	car	irr.ptcl	moments.later
+可以=sg.主格	主焦-去-上面	斜格.非限定	車子	非實現.虛詞	等一下
+#e I can get a ride in a minute.
+#c 等一下我就可以搭車了。
+
+##########
+
+#s maruwa ku (lra) muicas da dusiya.
+#g
+maruwa=ku(=lra) m-u-icas da dusiya 
+may=1sg.nom(=pfv) av-go-above obl.indf car
+可以=1sg.主格(=完成) 主焦-去-上面 斜格.非限定 車子
+#e I can get a ride in a minute.
+#c 等一下我就可以搭車了。
+
+##########
+
+#s ini na takakesiyan mu, tatenatena’ ku marasayhusayhu kaninu.
+#g
+ini	na	ta<ka>kesi-an	mu	ta-tena-tena’=ku
+nom.this	lnk	<irr>teach-nmlz	top	red-red-indeed=1sg.nom	主格.這	連繫詞	<非實現>教-名物化	主題	(重叠-重叠-確實)
+mara-sayhu-sayhu	kaninu
+compa-red-be.able.to	2sg.obl
+比較-重叠-會=1sg.主格	2sg.斜格
+#e I am really good at studying as you are.
+#c 讀書這件事確實我比你厲害。
+#n marasayhu亦可，為比較級。
+
+##########
+
+#s i Taiwan mu ulra kana Dipung i makakedet.
+#g
+i	Taiwan mu	ulra	kana	Dipung i	makakedet
+loc	Taiwan	top	exist	obl.def	Japan	loc	south.side	
+處所	臺灣	主題	存在	斜格.限定	日本	處所	南邊
+#e Taiwan is to the south of Japan.
+#c 臺灣在日本的南邊。
+
+##########
+
+#s ulra i makakedet kana Dipung i Taiwan.
+#g
+ulra	i	makakedet	kana	Dipung	i	Taiwan
+exist	loc	south.side	obl.def	Japan	loc	Taiwan	
+有	處所	南邊	斜格.限定	日本	處所	臺灣
+#e Taiwan is to the south of Japan. (lit.: There is a place to the south of Japan: Taiwan.）
+#c 臺灣在日本的南邊。（直譯：在日本的南邊有一個地方：臺灣。）
+
+##########
+
+#s idu na valray mu mau tu cinima’an kaningku i ina.
+#g
+idu	na	valray	mu	mau	tu=c<in>ima’-an	kaningku	i
+nom.prox.that	lnk	book	top	is	3sg.gen=<pfv>buy-nmlz	1sg.obl	sg
+主格.近距.那	連繫詞	書	主題	是	3sg.屬格=<完成>買-名物化	1sg.斜格	單數
+ina
+mother
+媽媽
+#e That book is which my mother bought me.
+#c 那本書是媽媽買給我的。
+
+##########
+
+#s idu na valray mu mau nantu cinima’an kaningku i ina.
+#g
+idu	na	valray	mu	mau	nantu	c<in>ima’an	kaningku	i
+nom.prox.that	lnk	book	top	is	3sg.gen	<pfv>buy-nmlz	1sg.obl	sg	主格.近距.那	連繫詞	書	主題	是	3sg.屬格	<完成>買-名物化	1sg.斜格	單數
+ina
+mother
+媽媽
+#e That book is which my mother bought me.
+#c 那本書是媽媽買給我的。
+
+##########
+
+#s tu kikulangay na kulang di ipuwa kana ’ara (i savak).
+#g
+tu=ki-kulang-ay	na	kulang	di	i-puwa	kana	’ara
+3sg.gen=pass-vegetable-lv	nom.def	vegetable	conj	pass-put	obl.def	basket	3sg.屬格=被動-蔬菜-處焦	主格.限定	蔬菜	連詞	被動-放	斜格.限定	籃子
+(i	savak)
+(loc	interior)
+(處所 裡面)
+#e The vegetables were picked and put into the basket.
+#c 蔬菜被摘起來，然後放到籃子裡。
+#n 注意這裡ipuwa的i表示pass，大致驗證此前ki-不用於修飾物的説法。
+
+##########
+
+#s tu kikulangay na kulang di tu puwanay kana ’ara (i savak).
+#g
+tu=ki-kulang-ay	na	kulang	di	tu=puwa-anay	kana	3sg.gen=pass-vegetable-lv	nom.def	vegetable	conj	3sg.gen=put-rv	obl.def
+3sg.屬格=被動-蔬菜-處焦	主格.限定	蔬菜	連詞	3sg.屬格=放-參焦	斜格.限定
+’ara	(i	savak)
+basket	(loc	interior)
+籃子	(處所 裡面)
+#e The vegetables were picked and put into the basket.
+#c 蔬菜被摘起來，然後放到籃子裡。
+
+##########
+
+#s pakakawang kana dusiya i Pusang mu tivutivus mena’u i ngidiran kana dalan ulra a sasaya dusiya muvavaci’.
+#g
+pa-ka-kawang	kana	dusiya	i	Pusang	mu	tivu-tivus	me-na’u	i
+caus-red-walk	obl.def	car	sg.nom	pn	top	red-finally	av-see	loc
+使動-重叠-走	斜格.限定	車子	單數.主格	人名	主題	重叠-終於	主焦-看	處所
+ngidiran	kana	dalan	ulra	a	sa-saya	dusiya	mu-va-vaci’
+beside	obl.def	road	exist	nom.indf	red-one	car	antip-red-burn
+旁邊	斜格.限定	路	有	主格.非限定	重叠-一	車子	反被動-重叠-燃燒
+#e When Pusang was driving a car, he suddenly saw that there was a car burning on the side of the road.
+#c Pusang在開車的時候，突然看到路邊有一臺車子正在燃燒。
+#n 看到火正在燒，而不是看到起火的過程。
+#n tivutivus“突然”；
+#n na’u“看”，mena’u“看見”；
+#n dalan“路上，馬路”；
+#n vaci’“燒”，apuy“火”；
+#n pakakawang中pa-指車被開動；
+#n puwani saninin (puwa-ani saninin)“放到旁邊去”。
+
+##########
+
+#s pakakawang kana dusiya i Pusang mu tivutivus mena’u i saninin kana dalan ulra a sasaya
+#g
+dusiya	muvavaci’.
+pa-ka-kawang	kana	dusiya	i	Pusang	mu	tivu-tivus	me-na’u	i
+caus-red-walk	obl.def	car	sg.nom	pn	top	red-finally	av-see	loc
+使動-重叠-走	斜格.限定	車子	單數.主格	人名	主題	重叠-終於	主焦-看	處所
+saninin	kana	dalan	ulra	a	sa-saya	dusiya	mu-va-vaci’
+beside	obl.def	road	exist	nom.indf	red-one	car	antip-red-burn
+旁邊	斜格.限定	路	有	主格.非限定	重叠-一	車子	反被動-重叠-燃燒
+#e When Pusang was driving a car, he suddenly saw that there was a car burning on the side of the road.
+#c Pusang在開車的時候，突然看到路邊有一臺車子正在燃燒。
+
+##########
+
+#s pakakawang kana dusiya i Pusang mu tivutivus mena’u i ngidiran kana dalan ulra a
+#g
+sasaya	dusiya	uwavaci’.
+pa-ka-kawang	kana	dusiya	i	Pusang	mu	tivu-tivus	me-na’u	i
+caus-red-walk	obl.def	car	sg.nom	pn	top	red-finally	av-see	loc
+使動-重叠-走	斜格.限定	車子	單數.主格	人名	主題	重叠-終於	主焦-看	處所
+ngidiran	kana	dalan	ulra	a	sa-saya	dusiya	uwa-vaci’
+beside	obl.def	road	exist	nom.indf	red-one	car	go-burn
+旁邊	斜格.限定	路	有	主格.非限定	重叠-一	車子	去-燃燒
+#e When Pusang was driving a car, he suddenly saw that there was a car begin to burn on the side of the road.
+#c Pusang在開車的時候，突然看到路邊有一臺車子將要起火。
+
+##########
+
+#s pakakawang kana dusiya i Pusang mu tivutivus mena’u i ngidiran kana dalan ulra a sasaya dusiya venaci’.
+#g
+pa-ka-kawang	kana	dusiya	i	Pusang	mu	tivu-tivus	me-na’u	i
+caus-red-walk	obl.def	car	sg.nom	pn	top	red-finally	av-see	loc
+使動-重叠-走	斜格.限定	車子	單數.主格	人名	主題	重叠-終於	主焦-看	處所
+ngidiran	kana	dalan	ulra	a	sa-saya	dusiya	v<en>aci’
+beside	obl.def	road	exist	nom.indf	red-one	car	<av>burn	旁邊	斜格.限定	路	有	主格.非限定	重叠-一	車子	<主焦>燃燒
+#e When Pusang was driving a car, he suddenly saw that there was a car burnt on the side of the road.
+#c Pusang在開車的時候，突然看到路邊有一臺車子起火。
+
+##########
+
+#s pakakawang kana dusiya i Pusang mu tivutivus mena’u i ngidiran kana dalan ulra a
+#g
+sasaya	dusiya	muvaci’.
+pa-ka-kawang	kana	dusiya	i	Pusang	mu	tivu-tivus	me-na’u	i
+caus-red-walk	obl.def	car	sg.nom	pn	top	red-finally	av-see	loc
+使動-重叠-走	斜格.限定	車子	單數.主格	人名	主題	重叠-終於	主焦-看	處所
+ngidiran	kana	dalan	ulra	a	sa-saya	dusiya	mu-vaci’
+beside	obl.def	road	exist	nom.indf	red-one	car	antip-burn
+旁邊	斜格.限定	路	有	主格.非限定	重叠-一	車子	反被動-燃燒
+#e When Pusang was driving a car, he suddenly saw that there was a car burnt on the side of the road.
+#c Pusang在開車的時候，突然看到路邊有一臺車子起火燒過。
+
+##########
+
+#s i Taiwan paliyuliyus mu mau na devek.
+#g
+i	Taiwan pa-liyu-liyus	mu	mau na	lrevek
+loc	Taiwan	caus-red-enclose	top	is	nom.def	sea
+處所	臺灣	使動-重叠-包圍	主題	是	主格.限定	海
+#e Taiwan is surrounded by the sea. (lit.: What encloses Taiwan is the sea.) 
+#c 臺灣四面環海。（直譯：將台灣包圍的是海。）
+#n lrevek“海”，lrevelrevek“海邊”；
+#n paliyus“被圍起來”，paliyuliyus“四周，被圍起來（範圍較廣）”。
+
+##########
+
+#s tu pakarunay ku i nani paveray kanini na valray kaninu.
+#g
+tu=pa-karun-ay=ku	i	nani	pa-veray	kanini	na	valray
+3sg.gen=caus-work-lv=1sg.nom	sg.nom	mother	caus-give	obl.this	lnk	book	3sg屬格=使動-工作-處焦=1sg.主格	單數.主格	媽媽	使動-給	斜格.這	連繫詞	書
+kaninu
+3sg.obl
+3sg.斜格
+#e My mom told me to give this book to you. (lit.: I was asked by my mother to give this book to you.)
+#c 媽媽交代我把這本書給你。（直譯：我被媽媽交代來把這本書拿給妳。） #n pakarunay“被交代，被使喚”；
+#n paveray“被給”，加pa-是因為被媽媽交代，而非主動自發的動作；
+#n kanini指的是書，這本，改為kanu亦可。
+
+##########
+
+#s tu pakarunanay ku i nani veray kanini na valray kaninu.
+#g
+tu=pa-karun-anay=ku	i	nani	veray	kanini	na	valray
+3sg.gen=caus-work-rv=1sg.nom	sg.nom	mother	give	obl.this	lnk	book
+3sg屬格=使動-工作-處焦=1sg.主格	單數.主格	媽媽	給	斜格.這	連繫詞	書
+kaninu
+3sg.obl
+3sg.斜格
+#e My mom told me to give this book to you. (lit.: I was asked by my mother to give this book to you.)
+#c 媽媽交代我把這本書給你。（直譯：我被媽媽交代來把這本書拿給妳。） #n paveray變為veray，因為rv視角下此處已經出現受惠者。
+
+##########
+
+#s mianger diya kani Simuy i Lutan mu payas cemacangis.
+#g
+mi-anger	diya	kani	Simuy	i	Lutan	mu	payas	c<em>a-cangis
+with-think	emp	sg.obl	pn	sg.nom	pn	top	right.away	<av>red-cry
+伴隨-想	强調	單數.斜格	人名	單數.主格	人名	主題	馬上	<主焦>重叠-哭
+#e When Lutan thinks of Simuy, he cries immediately.
+#c 只要一想到Simuy，Lutan馬上就哭了。
+#n pakunamun“馬上，快（動作）”替代payas亦可，字根namun，kunamun有點被催
+促快點的意思（如地震的時候催促大家躲藏）。
+#n diya此處表强調；
+#n niangeran“所想的”。
+
+##########
+
+#s nu mianger diya kani Simuy i Lutan mu payas cemacangis.
+#g
+nu	mi-anger	diya	kani	Simuy	i	Lutan	mu	payas
+irr.ptcl	with-think	emp	sg.obl	pn	sg.nom	pn	top	right.away
+非實現.虛詞	伴隨-想	强調	單數.斜格	人名	單數.主格	人名	主題	馬上
+c<em>a-cangis
+<av>red-cry
+<主焦>重叠-哭
+#e When Lutan thinks of Simuy, he cries immediately.
+#c 只要一想到Simuy，Lutan馬上就哭了。
+
+##########
+
+#s pakunamun uwa nimun!
+#g
+pa-ku=namun	uwa	nimun
+caus-1sg.gen=hurry.up	go	take.a.bath
+使動-趕快	去	洗澡
+#e Go take a bath!
+#c 趕快去洗澡！
+
+##########
+
+#s kunamun mu nimun!
+#g
+ku=namun	mu	nimun
+1sg.gen=hurry.up	top	take.a.bath
+1sg.屬格	主題	洗澡
+#e Go take a bath!
+#c 趕快去洗澡！
+#n 前面kunamun中已經包含催促意，後不可再接uwa。
+
+##########
+
+#s uwa nimun!
+#g
+uwa	nimun
+go	take.a.bath
+去 洗澡
+#e Go take a bath!
+#c 去洗澡！
+
+##########
+
+#s vi’as na wari di payas ku minimun.
+#g
+vi’as	na	wari	di	payas=ku	mi-nimun
+hot	lnk	day	conj	hurry.up=1sg.nom	with-take.a.bath
+熱	連繫詞 天	連詞	馬上=1sg.主格	伴隨-洗澡
+#e It’s hot. I’ll take a bath right away.
+#c 天氣熱，我馬上去洗澡。
+
+##########
+
+#s vi’as na wari di payas ku ’ema’u da saida.
+#g
+vi’as	na	wari	di	payas=ku	<em>a’u	da	saida
+hot	lnk	day	conj	hurry.up=1sg.nom	<av>drink	obl.indf	soda
+熱	連繫詞 天	連詞	馬上=1sg.主格	<主焦>喝	斜格.非限定 汽水
+#e It’s hot. I’ll drink the soda right away.
+#c 天氣熱，我馬上喝汽水。
+#n kohi“咖啡”，danum“水”，a’uwan“飲料”。
+
+##########
+
+#s tu tinusiyaw di ipuwa kana tu i nani a haremay mu tu cakawaw mekan i Simuy.
+#g
+tu=t<in>u-siyaw	di	i-puwa	kana	tu	i	nani	a
+3sg.gen=make<pfv>-dish	conj	pass-put	obl.def	table	sg	mother	real.det
+3sg.屬格=做<完成>-菜餚	連詞	被動-放	斜格.限定	桌子	單數	媽媽	實現.冠詞
+haremay	mu	tu=cakaw-aw	m-ekan	i	Simuy
+just.now	top	3sg.gen=steal-pv	av-eat	sg	pn	剛剛	主題	3sg.屬格=偷-受焦	吃	單數	人名
+#e The dish that was just cooked and put on the table by mom, was stole and eaten by Simuy.
+#c 媽媽剛剛煮好放在桌子上的菜，被Simuy偷去吃掉了。
+#n tinusiyaw“所煮的”，tinutasiyan“所讀的”，tinucurian“所畫的”；
+#n ipuwa“被放置”；
+#n di“然後，之後”。
+
+##########
+
+#s tu puwanay na siyaw kana tu i nani.
+#g
+tu=puwa-anay	na	siyaw	kana	tu	i	nani	
+3sg.gen=put-rv	nom.def	dish	obl.def	table	sg	mother
+3sg.屬格=放-參焦	主格.限定	菜餚	斜格.限定	桌子	單數	媽媽
+#e The dish was put on the table by mom.
+#c 菜被媽媽放在桌上。
+
+##########
+
+#s tu puwanay na siyaw i nani kana tu.
+#g
+tu=puwa-ay	na	siyaw	i	nani	kana	tu
+3sg.gen=put-lv	nom.def	dish	sg	mother	obl.def	table
+3sg.屬格=放-處焦	主格.限定	菜餚	單數	媽媽	斜格.限定	桌子
+#e The dish was put on the table by mom.
+#c 媽媽把菜放在桌上。
+
+##########
+
+#s tu tinusiyaw di ipuwa kana tu i nani a haremay mu tu cakawaw i Simuy.
+#g
+tu=t<in>u-siyaw	di	i-puwa	kana	tu	i	nani	a
+3sg.gen=make<pfv>-dish	conj	pass-put	obl.def	table	sg	mother	real.det
+3sg.屬格=做<完成>-菜餚	連詞	被動-放	斜格.限定	桌子	單數	媽媽	實現.冠詞
+haremay	mu	tu=cakaw-aw	i	Simuy
+just.now	top	3sg.gen=steal-pv	sg	pn	剛剛	主題	3sg.屬格=偷-受焦	單數	人名
+#e The dish that was just cooked and put on the table by mom, was stole by Simuy. 
+#c 媽媽剛剛煮好放在桌子上的菜，被Simuy偷走了。
+
+##########
+
+#s cemakaw mekan da siyaw i Simuy.
+#g
+c<em>akaw	m-ekan	da	siyaw	i	Simuy
+<av>steal	av-eat	obl.indf	dish	sg.nom	pn	
+<主焦>偷	主焦-吃	斜格.非限定	菜餚	單數.主格	人名
+#e Simuy stole some dishes to eat.
+#c Simuy把菜偷來吃。
+#n 偷了正在吃。
+
+##########
+
+#s ?cemakaw i Simuy mekan da siyaw.
+#g
+c<em>akaw	i	Simuy	m-ekan	da	siyaw
+<av>steal	sg.nom	pn	av-eat	obl.indf	dish
+<主焦>偷	單數.主格	人名	主焦-吃	斜格.非限定	菜餚
+#e Simuy stole some dishes to eat.
+#c Simuy把菜偷來吃。
+#n 不是很通順。
+
+##########
+
+#s cemakaw da siyaw di mekan i Simuy.
+#g
+c<em>akaw	da	siyaw	di	m-ekan	i	Simuy
+<av>steal	obl.indf	dish	conj	av-eat	sg.nom	pn	
+<主焦>偷	斜格.非限定	菜餚	連詞	主焦-吃	單數.主格	人名
+#e Simuy stole some dishes to eat.
+#c Simuy把菜偷來吃。
+cemakaw	da	siyaw	mekan	i	Simuy.
+c<em>akaw	da	siyaw	m-ekan	i	Simuy
+<av>steal	obl.indf	dish	av-eat	sg.nom	pn	<主焦>偷	斜格.非限定	菜餚	主焦-吃	單數.主格	人名
+#e Simuy stole some dishes to eat.
+#c Simuy把菜偷來吃。
+
+##########
+
+#s i paliyuliyus na ruma’ mu mau na kawikawi.
+#g
+i	pa-liyu-liyus	na	ruma’ mu	mau na	kawi-kawi
+loc	caus-red-enclose	nom.def	house	top	is	nom.def	red-tree
+處所	使動-重叠-包圍	主格.限定	房子	主題	是	主格.限定	重叠-樹
+#e There are so many trees near the house. (lit.: What enclose the house are a lot of trees.)
+#c 房子周圍都是樹。（直譯：很多樹將房子包圍起來。）
+#n kawikawian“樹林，叢林（一大片的感覺）”，kawikawi“很多樹”。
+
+##########
+
+#s i ruma’ mu, paliyuliyus mau na kawikawi.
+#g
+i	ruma’ mu	pa-liyu-liyus	mau na	kawi-kawi
+loc	house	top	caus-red-enclose	is	nom.def	red-tree
+處所	房子	主題	使動-重叠-包圍	是	主格.限定	重叠-樹
+#e There are so many trees near the house. (lit.: What enclose the house are a lot of trees.)
+#c 房子周圍都是樹。（直譯：很多樹將房子包圍起來。）
+
+##########
+
+#s i Taiwan mu, paliyuliyus mau na lrevec.
+#g
+i	Taiwan mu	pa-liyu-liyus	mau na	lrevec
+loc	Taiwan	top	caus-red-enclose	is	nom.def	sea
+處所	臺灣	主題	使動-重叠-包圍	是	主格.限定	海
+#e Taiwan is surrounded by sea. (lit.: What encloses Taiwan is the sea.)
+#c 臺灣的四周都是海。（直譯：將臺灣包圍的是海。）
+
+##########
+
+#s ku verayay nanku cinima’an na linggo paekan kanintaw.
+#g
+ku=veray-ay	nanku	c<in>ima’-an	na	linggo	pa-ekan	kanintaw
+1sg.gen=give-lv	1sg.nom	<pfv>buy-nmlz	lnk	apple	caus-eat	3sg.obl
+1sg.屬格=給-處焦	2sg.主格	<完成>買-名物化	連繫詞	蘋果	使動-吃	3sg.斜格
+#e I gave the apples I bought to her to eat.
+#c 我把我買的蘋果分給她吃。
+#n paekan“被吃，給吃”。
+
+##########
+
+#s ku verayay nanku cinima’an na linggo pu’acaranay paekan kanintaw.
+#g
+ku=veray-ay	nanku	c<in>ima’-an	na	linggo	p-u-’acar-anay	pa-ekan
+1sg.gen=give-lv	1sg.nom	<pfv>buy-nmlz	lnk	apple	caus-go-share-rv	caus-eat
+1sg.屬格=給-處焦	2sg.主格	<完成>買-名物化	連繫詞	蘋果	使動-去-分享-參焦	使動-吃
+kanintaw
+3sg.obl
+3sg.斜格
+#e I shared the apples I bought to her to eat.
+#c 我把我買的蘋果分享給她吃。
+#n ’acar“分享”。
+
+##########
+
+#s ku verayanay nanku cinima’an na linggo pu’acaray kanintaw.
+#g
+ku=veray-anaynanku	c<in>ima’-an	na	linggo	p-u-’acar-ay	kanintaw
+1sg.gen=give-rv	1sg.nom	<pfv>buy-nmlz	lnk	apple	caus-go-share-lv	3sg.obl
+1sg.屬格=給-參焦	1sg.主格	<完成>買-名物化	連繫詞	蘋果	使動-去-分享-處焦	3sg.斜格
+#e I shared the apples I bought to her.
+#c 我把我買的蘋果分享給她。
+
+##########
+
+#s i Ahuwa mu haremaremay kianger da senay haremaremay mianger kantu kinasaharan na
+#g
+ma’inay.
+i	Ahuwa mu	haremaremay ki-anger	da	senay haremaremay
+sg.nom	pn	top	while	get-think	obl.indf	song	while
+單數.主格	人名	主題	同時	取得-想	斜格.非限定	歌	同時
+mi-anger	kantu	k<in>a-sahar-an	na	ma’inay
+with-think	3sg.obl	ka<pfv>-like-nmlz	lnk	male
+伴隨-想	3sg.斜格	ka<完成>-喜歡-名物化	連繫詞	男性
+#e Ahuwa listened to the song and thought about his boyfriend.
+#c Ahuwa邊聽歌邊想著他的男朋友。
+#n ma’inay單數男生，ma’inayan複數男生。
+
+##########
+
+#s i Ahuwa mu haremaremay kianger da senay haremaremay mianger kantu ayzin.
+#g
+i	Ahuwa mu	haremaremay ki-anger	da	senay haremaremay
+sg.nom	pn	top	while	get-think	obl.indf	song	while
+單數.主格	人名	主題	同時	取得-想	斜格.非限定	歌	同時
+mi-anger	kantu	ayzin
+with-think	3sg.obl	lover
+伴隨-想	3sg.斜格	愛人
+#e Ahuwa listened to the song and thought about his lover.
+#c Ahuwa邊聽歌邊想著他的愛人。
+
+##########
+
+#s tu kinivulas kani Pusang na valray i Simuy mu tu adayaw i kungkuwan.
+#g
+tu=k<in>i-vulas	kani	Pusang	na	valray	i	Simuy	mu
+3sg.gen=pass-<pfv>-borrow	sg.obl	pn	lnk	book	sg	pn	top
+3sg.屬格=被動-<完成>-借	單數.斜格	人名	連繫詞	書	單數	人名	主題
+tu=ada-aw	i	kungkuwan
+3sg.gen=bring-pv	loc	school
+3sg.屬格=帶-受焦	處所	學校
+#e The book borrowed from Pusang was brought to the school by Simuy.
+#c Simuy把Pusang借給她的書帶來學校。（直譯：那本從Pusang那裡借來的書被Simuy帶去了學校。）
+#n kinivulas“所借的”；
+#n ada“帶”，adayaw“被帶”。
+
+##########
+
+#s tu pavaliyaw na vali na kawi, di kipanana kantu canguru’ i Lutan.
+#g
+tu=pa-vali-aw	na	vali	na	kawi	di	ki-pa-nana
+3sg.gen=caus-wind-pv	obl.indf	wind	nom.def	wood	conj	pass-caus-pain	3sg.屬格=使動-風-受焦	斜格.非限定	風	主格.限定	木頭	連詞	被動-使動-痛
+kantu	canguru’	i	Lutan
+3sg.obl	head	sg	pn
+3sg.斜格	頭	單數	人名
+#e The wood was blew away by wind and hit Lutan’s head.
+#c 木頭被風吹走，打到Lutan的頭。
+#n kipanana“被打傷”；
+#n kipangece’“被碰到”，可替換，字根pangece’。
+
+##########
+
+#s tu pavaliyaw na vali na kawi, di tu pangece’aw datu canguru’ i Lutan.
+#g
+tu=pa-vali-aw	na	vali	na	kawi	di	tu=pangece’-aw	3sg.gen=caus-wind-pv	obl.indf	wind	nom.def	wood	conj	3sg.gen=hit-pv
+3sg.屬格=使動-風-受焦	斜格.非限定	風	主格.限定	木頭	連詞	3sg.屬格=碰到-受焦
+datu	canguru’	i	Lutan
+3sg.obl	head	sg	pn
+3sg.斜格	頭	單數	人名
+#e The wood was blew away by wind and hit Lutan’s head.
+#c 木頭被風吹走，碰到Lutan的頭。
+
+##########
+
+#s nana ku!
+#g
+nana=ku
+pain=1sg.nom
+痛=1sg.主格
+#e It hurts!
+#c 好痛啊！
+#n panana, nana都有，但沒有pananayaw，因沒有人故意要受傷。
+
+##########
+
+#s tu paverayanay da kare’alrian na paisu kani Lutan (i intaw).
+#g
+tu=pa-veray-anay	da	kare’alri-an	na	paisu	kani	Lutan
+3sg.gen=caus-give-rv	obl.indf	lunch-nmlz	lnk	money	sg.obl	pn	3sg.屬格=使動-給-參焦	斜格.非限定	午餐-名物化	連繫詞	錢	單數.斜格	人名
+(i	intaw)
+(sg.nom	3sg.obl)
+(單數.主格 3sg.斜格)
+#e He asked Lutan to pay the money of lunch (for him).
+#c 他要Lutan幫他付午餐錢。
+#n kare’alri“午餐”，kare’alrian“與午餐有關的”； #n 可以單獨省略i，也可以i intaw一起省略； #n 本句强調受惠者。
+
+##########
+
+#s tu paverayay da kare’alrian na paisu kani Lutan (i intaw).
+#g
+tu=pa-veray-ay	da	kare’alri-an	na	paisu	kani	Lutan
+3sg.gen=caus-give-lv	obl.indf	lunch-nmlz	lnk	money	sg.obl	pn
+3sg.屬格=使動-給-處焦	斜格.非限定	午餐-名物化	連繫詞	錢	單數.斜格	人名
+(i	intaw)
+(sg	3sg.obl)
+(單數 3sg.斜格)
+#e He asked Lutan to pay the money of lunch (for him).
+#c 他要Lutan幫他付午餐錢。
+#n 强調處所。
+
+##########
+
+#s tu paverayay na/a/da paisu kani Lutan (i intaw).
+#g
+tu=pa-veray-ay	na/a/da	paisu	kani	Lutan
+3sg.gen=caus-give-lv	nom.def/nom.indf/obl.indf	money	sg.obl	pn
+3sg.屬格=使動-給-處焦	主格.限定/主格.非限定/斜格.非限定	錢	單數.斜格	人名
+(i	intaw)
+(sg.nom	3sg.obl)
+(單數.主格	3sg.斜格)
+#e He asked Lutan to pay the money of lunch (for him).
+#c 他要Lutan幫他付午餐錢。
+#n 如加上“與午餐有關的”作為修飾，有a則全部a，有na則全部na。
+
+##########
+
+#s kare’a’alri ku.
+#g
+kare<’a>’alri=ku
+<red>lunch=1sg.nom
+<重叠>午餐=1sg.主格
+#e I am eating lunch.
+#c 我正在吃午餐。
+#n keravi“晚餐”，keraravi“正在吃晚餐”； #n kenava“早餐”，kenanava“正在吃早餐”。
+
+##########
+
+#s *maekan kare’alri ku.
+#g
+ma-ekan	kare’alri=ku
+av-eat	lunch=1sg.nom
+主焦-吃	午餐=1sg.主格
+#e I am having lunch.
+#c 我正在吃午餐。
+
+##########
+
+#s kare’alri u da a eman?
+#g
+kare’alri=u	da	a	eman
+lunch=2sg.nom	obl.indf	nom.indf	what
+午餐=2sg.主格	斜格.非限定	主格.非限定	什麽
+#e What would you like to eat for lunch?
+#c 你午餐要吃什麽？
+#n da可以拿掉，a也可以拿掉，可二選一省略，不可同時全省。
+
+##########
+
+#s kare’a’alri u da a eman?
+#g
+kare<’a>’alri=u	da	a	eman	
+<red>lunch=2sg.nom	obl.indf	nom.indf	what
+<重叠>午餐=2sg.主格	斜格.非限定	主格.非限定	什麽
+#e What would you like to eat for lunch?
+#c 你午餐想吃什麽？
+
+##########
+
+#s kare’alri u lra da a eman?
+#g
+kare’alri=u=lra	da	a	eman
+lunch=2sg.nom=pfv	obl.indf	nom.indf	what
+午餐=2sg.主格=完成	斜格.非限定	主格.非限定	什麽
+#e What did you eat for lunch?
+#c 你午餐吃了什麽？
+
+##########
+
+#s keraravi ku.
+#g
+ke<ra>ravi=ku
+<red>supper=1sg.nom
+<重叠>晚餐=1sg.主格
+#e I am having supper/I am going to have supper.
+#c 我正在吃晚餐/我要吃晚餐。
+
+##########
+
+#s tu ruma’ (i savak) mu, ulra sasaya a kasahasahar na suwan.
+#g
+tu=ruma’	(i	savak)	mu	ulra	sa-saya	a	ka-saha-sahar na
+3sg.gen=house	(loc	inside) top	exist red-one nom.indf	ka--red-like	lnk
+3sg.屬格=房子	(處所 裡面)	主題 存在 重叠-一 主格.非限定 ka-重叠-喜歡 連繫詞
+suwan
+dog
+狗
+#e In his house exists a cute dog.
+#c 他的房子裡有一隻可愛的狗。
+#n kasaharsahar“可愛”，kasasahar、kasahar理論上也可以，vavulayan“漂亮極了、可愛極了”。
+
+##########
+
+#s ulra sasaya a kasaharsahar na suwan kantu ruma’.
+#g
+ulra	sa-saya	a	ka-sahar-sahar	na	suwan	kantu	ruma’
+exist	red-one	nom.def	ka-red-like	lnk	dog	3sg.obl	house
+存在	重叠-一	主格.限定	ka-重叠-喜歡	連繫詞	狗	3sg.斜格	房子
+#e There is a cute dog in his house.
+#c 有一隻可愛的狗在他的家裡。
+
+##########
+
+#s purekedang ta mapiya!
+#g
+purekedang=ta	mipiya
+powerful=1pl.nom.incl	everyone
+有力量=1pl.主格.包含式	大家
+#e Come on everyone!
+#c 大家加油！
+#n marakedang“有力量”，purekedang“加油”。
+
+##########
+
+#s tu pamelriyaw mena’u i Pusang, mau i Lutan kema i Umang.
+#g
+tu=pa-melri-aw	me-na’u	i	Pusang	mau	i	Lutan	kema
+3sg.gen=caus-neg-pv	av-see	sg.nom	pn	is	sg	pn	according.to
+3sg.屬格=使動-否定-受焦	主焦-看見	單數.主格	人名	是	單數	人名	根據
+i	Umang
+sg	pn
+單數	人名
+#e According to Umang, he mistook Lutan for Pusang.
+#c 據Umang說，他誤認Pusang就是Lutan。
+#n kema“這麽説”；
+#n pamelri“使錯”，maramelri“不如”。
+
+##########
+
+#s maramelri u kana suwan!
+#g
+mara-melri=u	kana	suwan
+compa-neg=2sg.nom	obl.def	dog
+比較-否定=2sg.主格	斜格.限定	狗
+#e You’re even worse than a dog!
+#c 你不如狗！
+
+##########
+
+#s dangdarang idu na linggo melri a rema’at/ma’at.
+#g
+dangdarang	idu	na	linggo	melri	a	rema’at/ma’at
+red	prox.nom.that	lnk	apple	neg	lnk	green/unripe
+紅	近距.主格.那	連繫詞 蘋果 否定 連繫詞 綠/生
+#d The apple is red, not green/unripe.
+#c 那個蘋果是紅色的，不是綠色的/生的。
+#n rema’at“綠色的”，ma’at“生的”，可指果實類，不可指肉類；
+#n dangdarang“紅色”，拼寫已確認；
+#n macua“硬的”，中間無喉塞音，可形容食物、枕頭、木頭，mavul“軟的”，僅可指果實，不可指枕頭、飯，ames“軟”，指枕頭、飯等等； #n 阿美族、泰雅族很喜歡吃腌生肉！注意食安！！
+
+##########
+
+#s tu reve’aw lra na rumaruma’ na ngunin.
+#g
+tu=reve’-aw=lra	na	ruma-ruma’	na	ngunin
+3sg.gen=collapse-pv=pfv	nom.def	red-house	def	earthquake	
+3sg.屬格=倒-受焦=完成	主格.限定	重叠-房子	限定	地震
+#e The houses were collapsed because of earthquake.
+#c 那些房子被地震弄倒了。
+#n ruma’ruma’“一排的房子”；
+#n ngunin、gunin、hinghing都可講；
+#n reve’“倒”，mureve’“倒下”，pareve’“被推倒”，沒有kireve’。
+
+##########
+
+#s tu reve’aw lra na ngunin na rumaruma’.
+#g
+tu=reve’-aw=lra	na	ngunin	na	ruma-ruma’	
+3sg.gen=collapse-pv=pfv	def	earthquake	nom.def	red-house
+3sg.屬格=倒-受焦=完成	限定	地震	主格.限定	重叠-房子
+#e The houses were collapsed because of earthquake.
+#c 那些房子被地震弄倒了。
+
+##########
+
+#s tu reve’aw lra kana ngunin na rumaruma’.
+#g
+tu=reve’-aw=lra	kana	ngunin	na	ruma-ruma’
+3sg.gen=collapse-pv=pfv	obl.def	earthquake	nom.def	red-house
+3sg.屬格=倒-受焦=完成	斜格.限定	地震	主格.限定	重叠-房子
+#e The houses were collapsed because of that earthquake.
+#c 那些房子被那場地震弄倒了。
+
+##########
+
+#s tu pareve’aw lra na ngunin na rumaruma’.
+#g
+tu=pa-reve’-aw=lra	na	ngunin	na	ruma-ruma’
+3sg.gen=caus-collapse-pv=pfv	def	earthquake	nom.def	red-house
+3sg.屬格=使動-倒-受焦=完成	限定	地震	主格.限定	重叠-房子
+#e The houses were collapsed because of earthquake.
+#c 那些房子被地震弄倒了。
+
+##########
+
+#s mureve’ lra na rumaruma’ na ngunin.
+#g
+mu-reve’=lra	na	ruma-ruma’	na	ngunin
+antip-collapse=pfv	nom.def	red-house	def	earthquake	
+反被動-倒=完成	主格.限定	重叠-房子	限定	地震
+#e The houses were collapsed because of earthquake.
+#c 那些房子被地震弄倒了。
+#n remareve’“正在倒”。
+
+##########
+
+#s tu reve’aw lra na rumaruma’.
+#g
+tu=reve’-aw=lra	na	ruma-ruma’
+3sg.gen=collapse-pv=pfv	nom.def	red-house
+3sg.屬格=倒-受焦=完成	主格.限定	重叠-房子
+#e The houses were pulled down.
+#c 那些房子被弄倒了。
+
+##########
+
+#s *tu pareve’aw lra na rumaruma’.
+#g
+tu=pa-reve’-aw=lra	na	ruma-ruma’
+3sg.gen=caus-collapse-pv=pfv	nom.def	red-house	
+3sg.屬格=使動-倒-受焦=完成	主格.限定	重叠-房子
+#e The houses were pulled down.
+#c 那些房子被弄倒了。
+
+##########
+
+#s tu pakavekasaw kani Simuy a saya tuki i Lutan.
+#g
+tu=pa-ka-vekas-aw	kani	Simuy	a	saya	tuki	i	Lutan
+3sg.gen=caus-ka-run-pv	sg.obl	pn	real.det	one	hour	sg	pn	
+3sg.屬格=使動-ka-跑-受焦	單數.斜格	人名	實現.冠詞	一	小時	單數	人名
+#e Lutan made Simuy run for an hour.
+#c Lutan讓Simuy跑了一個小時的步。
+#n pavekas”跑步、叫別人跑步”，沒有vekas，pavekas ku”我跑步”，pakavekas”叫別人跑”。
+
+##########
+
+#s *a saya tuki mu tu pakavekasaw kani Simuy i Lutan.
+#g
+a	saya tuki	mu	tu=pa-ka-vekas-aw	kani	Simuy i	Lutan
+real.det	one	hour	top	3sg.gen=caus-ka-run-pv	sg.obl	pn	sg	pn	
+實現.冠詞	一	小時	主題	3sg.屬格=使動-ka-跑-受焦	單數.斜格	人名	單數	人名
+#e In an hour, Lutan made Simuy run for an hour.
+#c 在一個小時，Lutan讓Simuy去跑步。
+
+##########
+
+#s nguwayan a saya tuki mu, tu pavekasaw kani Simuy i Lutan.
+#g
+nguwayan	a	saya	tuki	mu	tu=pa-vekas-aw	kani	Simuy	i
+ahead	real.det	one	hour	top	3sg.gen=caus-run-pv	sg.obl	pn	sg
+前面	實現.冠詞	一	小時	主題	3sg.屬格=使動-跑-受焦	單數.斜格	人名	單數
+Lutan
+pn
+人名
+#e One hour before, Lutan made Simuy run.
+#c 一個小時前，Lutan讓Simuy去跑步。
+
+##########
+
+#s saya tuki a nguwayan tu pavekasaw kani Simuy i Lutan.
+#g
+saya	tuki	a	nguwayan	tu=pa-vekas-aw	kani	Simuy	i	Lutan
+one	hour	real.det	ahead	3sg.gen=caus-run-pv	sg.obl	pn	sg	pn
+一	小時 實現.冠詞 前面	3sg.屬格=使動-跑-受焦 單數.斜格 人名	單數 人名
+#e One hour before, Lutan made Simuy run.
+#c 一個小時前，Lutan讓Simuy去跑步。
+$n	saya前也可加a，但沒必要，a太多了。
+
+##########
+
+#s ”ta kingeri tu ngai na sinsi”, kema tu ma’idangan i Pusang.
+#g
+ta=kinger-i=tu	ngai	na	sinsi
+1pl.gen.incl=listen.to-imp=3sg.nom	words	lnk	teacher
+1pl.屬格.包含式=聽-祈使-3sg.主格	話	連繫詞	老師
+kema	tu=ma-’idang-an	i	Pusang
+according.to	3sg.gen=av-big-nmlz	sg	pn
+根據	3sg.屬格=主焦-長大-名物化	單數	人名
+#e ”We should always listen to what the teacher says,”said Pusang’s parents. 
+#c “我們要注意聽老師的話，”Pusang的父母説。
+#n kingerli“注意聽”，帶命令語氣；
+#n ma’idang“長大，百步蛇（蛇王）”，ma’idangan“長輩，父母”；
+#n na不可換成i，因為老師無特指。
+
+##########
+
+#s pakarun kani Pusang i Lutan pulralranga demeru kani Umang.
+#g
+pa-karun	kani	Pusang	i	Lutan	pulralrang-a	d<em>eru	kani
+caus-work	sg.obl	pn	sg.nom	pn	help-irr	<av>cook	sg.obl
+使動-工作	單數.斜格	人名	單數.主格	人名	幫忙-非實現	<主焦>煮	單數.斜格
+Umang
+pn
+人名
+#e Lutan made Pusang help Umang to cook.
+#c Lutan讓Pusang幫Umang煮飯。
+#n deru“飯”，demeru“煮飯”。
+
+##########
+
+#s tu pakarunay kani Pusang i Lutan pulralranga demeru kani Umang.
+#g
+tu=pa-karun-ay	kani	Pusang	i	Lutan	pulralrang-a	d<em>eru
+3sg.gen=caus-work-lv	sg.obl	pn	sg.nom	pn	help-irr	<av>cook
+3sg.屬格=使動-工作-處焦	單數.斜格	人名	單數.主格	人名	幫忙-非實現	<主焦>煮
+kani	Umang
+sg.obl	pn
+單數.斜格	人名
+#e Lutan made Pusang help Umang to cook.
+#c Lutan讓Pusang幫Umang煮飯。
+
+##########
+
+#s *tu pakarunanay kani Pusang i Lutan pulralranga demeru kani Umang.
+#g
+tu=pa-karun-anay	kani	Pusang	i	Lutan	pulralrang-a	d<em>eru
+3sg.gen=caus-work-rv	sg.obl	pn	sg.nom	pn	help-irr<av>cook
+3sg.屬格=使動-工作-參焦	單數.斜格	人名	單數.主格	人名	幫忙-非實現	<主焦>煮
+kani	Umang
+sg.obl	pn
+單數.斜格	人名
+#e Lutan made Pusang help Umang to cook.
+#c Lutan讓Pusang幫Umang煮飯。
+
+##########
+
+#s i Lutan mu tu pakarunay i Pusang pulralranga demeru kani Umang.
+#g
+i	Lutan	mu	tu=pa-karun-ay	i	Pusang pulralrang-a d<em>eru
+sg.nom	pn	top	3sg.gen=caus-work-lv	sg.obl	pn	help-irr<av>cook
+單數.主格	人名	主題	3sg.屬格=使動-工作-處焦	單數.斜格	人名	幫忙-非實現	<主焦>煮
+kani	Umang
+sg.obl	pn
+單數.斜格	人名
+#e Lutan made Pusang help Umang to cook.
+#c Lutan讓Pusang幫Umang煮飯。
+
+##########
+
+#s i Lutan mu tu pakarunay i Pusang mukuwa pulralranga demeru kani Pusang.
+#g
+i	Lutan mu	tu=pa-karun-ay	i	Pusang m-ukuwa pulralrang-a
+sg.nom	pn	top	3sg.gen=caus-work-lv	sg.obl	pn	av-go	help-irr
+單數.主格	人名	主題	3sg.屬格=使動-工作-處焦	單數.斜格	人名	主焦-去	幫忙-非實現
+d<em>eru	kani	Pusang
+<av>cook	sg.obl	pn
+<主焦>煮	單數.斜格	人名
+#e Lutan made Pusang help Umang to cook.
+#c Lutan讓Pusang幫Umang煮飯。
+
+##########
+
+#s pakunamun cemima’ da ma’idang di dangdarang di madulu di imaran na linggo.
+#g
+pa-ku=namun	c<em>ima’	da	ma’idang	di	dangdarang	di
+caus-1sg.gen=hurry.up	<av>buy	obl.indf	av-big	conj	red	conj
+使動-1sg.屬格=趕快	<主焦>買	斜格.非限定	主焦-大	連詞	紅	連詞
+madulu	di	imaran	na	linggo
+cheap	conj	delicious	lnk	apple
+便宜	連詞	好吃	連繫詞	蘋果
+#e Come and buy big, red, cheap and delicious apple!
+#c 快來買又大又紅又便宜又好吃的蘋果！
+
+##########
+
+#s pakunamun cemima’ na ma’idang di na dangdarang di na madulu di na imaran na linggo.
+#g
+pa-ku=namun	c<em>ima’	na	ma-’idang	di	na	dangdarang
+caus-1sg.gen=hurry.up	<av>buy	nom.def	av-big	conj	nom.def	red
+使動-1sg.屬格=趕快	<主焦>買	主格.限定	主焦-大	連詞	主格.限定	紅
+di	na	madulu	di	na	imaran	na	linggo
+conj	nom.def	cheap	conj	nom.def	delicious	lnk	apple
+連詞	主格.限定	便宜	連詞	主格.限定	好吃	連繫詞	蘋果
+#e Come and buy the big, red, cheap and delicious apple!
+#c 快來買又大又紅又便宜又好吃的蘋果！
+
+##########
+
+#s pakunamun cemima’ na ma’idang dangdarang madulu (di) imaran na linggo!
+#g
+pa-ku=namun	c<em>ima’	na	ma-’idang	dangdarang	madulu	(di)
+caus-1sg.gen=hurry.up	<av>buy	nom.def	av-big	red	cheap	(conj)
+使動-1sg.屬格=趕快	<主焦>買	主格.限定	主焦-大	紅	便宜	(連詞)
+imaran	na	linggo
+delicious	lnk	apple
+好吃	連繫詞	蘋果
+#e Come and buy the big, red, cheap and delicious apple!
+#c 快來買大、紅、便宜又好吃的蘋果！
+#n ’idang“大”，但現在一般都用ma’idang，ma’idang’idang“慢慢長大”。
+
+##########
+
+#s ma’idang’idang lra nanku(ku) alrak.
+#g
+ma-’idang-’idang=lra	nanku(ku=)	alrak
+av-red-big=pfv	1sg.gen(1sg.gen=)	child
+主焦-重叠-大=完成	1sg.屬格(1sg.屬格=)	孩子
+#e My child gradually grows up.
+#c 我的孩子慢慢長大。
+
+##########
+
+#s na linggo mu, ma’idang di dangdarang di metulu di imaran, pakunamun cemima’ a!
+#g
+na	linggo	mu	ma’idang	di	dangdarang	di	madulu	di	imaran
+nom.def	apple	top	av-big	lnk	red	lnk	av-cheap	lnk	delicious
+主格.限定	蘋果	主題	主焦-大	連繫詞	紅	連繫詞	主焦-便宜	連繫詞	好吃
+pa-ku=namun	c<em>ima’-a
+caus-1sg.gen=hurry.up	<av>buy-irr
+使動-1sg.屬格=趕快	<主焦>買-非實現
+#e These apples are big, red, cheap and delicious, come and buy some!
+#c 這蘋果，又大又紅又便宜又好吃，快來買啊！
